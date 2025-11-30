@@ -322,4 +322,4 @@ To make it a real service available via API / web.
 
 ---
 
-# 🎉 88 Thank you kaggle and Google for giving this opportunity
+# 🎉  Thank you kaggle and Google for giving this opportunity
