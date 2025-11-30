@@ -1,0 +1,4 @@
+requests
+pdfplumber
+python-dateutil
+python-dotenv

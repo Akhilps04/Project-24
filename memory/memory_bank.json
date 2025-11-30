@@ -1,0 +1,2310 @@
+{
+  "user-1": [
+    {
+      "type": "uploaded_doc_summary",
+      "user_id": "user-1",
+      "keywords": [
+        "type diabetes mellitus",
+        "blood",
+        "pressure lipid profile",
+        "elevated lipids",
+        "lipid",
+        "atorvastatin 10mg",
+        "pressure",
+        "evaluation blood pressure",
+        "diabetes mellitus elevated",
+        "diabetes mellitus",
+        "lipid profile",
+        "twice daily atorvastatin",
+        "elevated lipids prescription",
+        "blood pressure",
+        "type diabetes",
+        "mellitus elevated lipids",
+        "atorvastatin 10mg once",
+        "daily atorvastatin",
+        "lipids prescription metformin",
+        "lipids prescription"
+      ],
+      "suggested_specialties": [
+        "Internal Medicine",
+        "Cardiology",
+        "Endocrinology"
+      ],
+      "raw_excerpt": "Patient Name: John Doe\nAge: 52\nDate: 2025-11-01\nDiagnosis: Type 2 Diabetes Mellitus, Elevated Lipids\nPrescription:\n1. Metformin 500mg \u2013 twice daily\n2. Atorvastatin 10mg \u2013 once daily (night)\nNotes: Patient reports mild chest discomfort during exertion. Recommend evaluation of blood pressure,\nlipid profile, and HbA1c. Consider referral to Cardiology if symptoms persist.\nSignature: Dr. A Kumar\n",
+      "recorded_at": 1764387820.8220737
+    },
+    {
+      "type": "uploaded_doc_summary",
+      "user_id": "user-1",
+      "keywords": [
+        "pressure",
+        "twice daily atorvastatin",
+        "elevated lipids",
+        "recommend evaluation blood",
+        "lipids",
+        "evaluation blood pressure",
+        "atorvastatin",
+        "metformin",
+        "evaluation blood",
+        "elevated lipids prescription",
+        "type diabetes",
+        "blood pressure lipid",
+        "lipids prescription metformin",
+        "diabetes",
+        "daily atorvastatin",
+        "lipid profile",
+        "lipid",
+        "diabetes mellitus",
+        "type diabetes mellitus",
+        "lipid profile and"
+      ],
+      "suggested_specialties": [
+        "Endocrinology",
+        "Cardiology",
+        "Internal Medicine"
+      ],
+      "raw_excerpt": "Patient Name: John Doe\nAge: 52\nDate: 2025-11-01\nDiagnosis: Type 2 Diabetes Mellitus, Elevated Lipids\nPrescription:\n1. Metformin 500mg \u2013 twice daily\n2. Atorvastatin 10mg \u2013 once daily (night)\nNotes: Patient reports mild chest discomfort during exertion. Recommend evaluation of blood pressure,\nlipid profile, and HbA1c. Consider referral to Cardiology if symptoms persist.\nSignature: Dr. A Kumar\n",
+      "recorded_at": 1764387934.640758
+    },
+    {
+      "type": "adherence_event",
+      "user_id": "user-1",
+      "med": "Atorvastatin",
+      "dose": "10mg",
+      "timestamp": 1764387935.021565,
+      "user_reply": "Yes, I took it.",
+      "recorded_at": 1764387935.021565
+    },
+    {
+      "type": "adherence_event",
+      "user_id": "user-1",
+      "med": "Metformin",
+      "dose": "500mg",
+      "timestamp": 1764387935.2060795,
+      "user_reply": "Yes, I took it.",
+      "recorded_at": 1764387935.2060795
+    },
+    {
+      "type": "adherence_event",
+      "user_id": "user-1",
+      "med": "Atorvastatin",
+      "dose": "10mg",
+      "timestamp": 1764387935.3868184,
+      "user_reply": "Yes, I took it.",
+      "recorded_at": 1764387935.3868184
+    },
+    {
+      "type": "adherence_event",
+      "user_id": "user-1",
+      "med": "Metformin",
+      "dose": "500mg",
+      "timestamp": 1764387935.5745244,
+      "user_reply": "Yes, I took it.",
+      "recorded_at": 1764387935.5745244
+    },
+    {
+      "type": "doctor_advice",
+      "user_id": "user-1",
+      "doctor_id": "dr-1",
+      "advice_text": "Recommend follow-up with cardiology for lipid management. Consider lipid panel and liver enzymes.",
+      "related_specialties": [
+        "Cardiology",
+        "Clinical Pathology"
+      ],
+      "timestamp": 1764387935.5878506,
+      "recorded_at": 1764387935.5878506
+    },
+    {
+      "type": "uploaded_doc_summary",
+      "user_id": "user-1",
+      "keywords": [
+        "mellitus elevated lipids",
+        "atorvastatin 10mg once",
+        "diabetes mellitus",
+        "daily atorvastatin 10mg",
+        "evaluation blood pressure",
+        "lipid profile and",
+        "metformin",
+        "daily atorvastatin",
+        "lipids prescription metformin",
+        "recommend evaluation blood",
+        "pressure lipid profile",
+        "diabetes mellitus elevated",
+        "lipid",
+        "evaluation blood",
+        "lipids",
+        "prescription metformin",
+        "diagnosis type diabetes",
+        "blood pressure lipid",
+        "blood",
+        "metformin 500mg"
+      ],
+      "suggested_specialties": [
+        "Cardiology",
+        "Endocrinology",
+        "Internal Medicine"
+      ],
+      "raw_excerpt": "Patient Name: John Doe\nAge: 52\nDate: 2025-11-01\nDiagnosis: Type 2 Diabetes Mellitus, Elevated Lipids\nPrescription:\n1. Metformin 500mg \u2013 twice daily\n2. Atorvastatin 10mg \u2013 once daily (night)\nNotes: Patient reports mild chest discomfort during exertion. Recommend evaluation of blood pressure,\nlipid profile, and HbA1c. Consider referral to Cardiology if symptoms persist.\nSignature: Dr. A Kumar\n",
+      "recorded_at": 1764388127.2734194
+    },
+    {
+      "type": "adherence_event",
+      "user_id": "user-1",
+      "med": "Atorvastatin",
+      "dose": "10mg",
+      "timestamp": 1764388127.478807,
+      "user_reply": "Yes, I took it.",
+      "recorded_at": 1764388127.478807
+    },
+    {
+      "type": "adherence_event",
+      "user_id": "user-1",
+      "med": "Metformin",
+      "dose": "500mg",
+      "timestamp": 1764388127.6524658,
+      "user_reply": "Yes, I took it.",
+      "recorded_at": 1764388127.6524658
+    },
+    {
+      "type": "adherence_event",
+      "user_id": "user-1",
+      "med": "Atorvastatin",
+      "dose": "10mg",
+      "timestamp": 1764388127.845077,
+      "user_reply": "Yes, I took it.",
+      "recorded_at": 1764388127.845077
+    },
+    {
+      "type": "adherence_event",
+      "user_id": "user-1",
+      "med": "Metformin",
+      "dose": "500mg",
+      "timestamp": 1764388128.058322,
+      "user_reply": "Yes, I took it.",
+      "recorded_at": 1764388128.058322
+    },
+    {
+      "type": "adherence_event",
+      "user_id": "user-1",
+      "med": "Atorvastatin",
+      "dose": "10mg",
+      "timestamp": 1764388128.3955772,
+      "user_reply": "Yes, I took it.",
+      "recorded_at": 1764388128.3955772
+    },
+    {
+      "type": "adherence_event",
+      "user_id": "user-1",
+      "med": "Metformin",
+      "dose": "500mg",
+      "timestamp": 1764388128.557627,
+      "user_reply": "Yes, I took it.",
+      "recorded_at": 1764388128.557627
+    },
+    {
+      "type": "doctor_advice",
+      "user_id": "user-1",
+      "doctor_id": "dr-1",
+      "advice_text": "Recommend follow-up with cardiology for lipid management. Consider lipid panel and liver enzymes.",
+      "related_specialties": [
+        "Cardiology",
+        "Clinical Pathology"
+      ],
+      "timestamp": 1764388128.559136,
+      "recorded_at": 1764388128.559136
+    },
+    {
+      "type": "uploaded_doc_summary",
+      "user_id": "user-1",
+      "keywords": [
+        "metformin",
+        "pressure lipid",
+        "diabetes mellitus",
+        "atorvastatin 10mg once",
+        "lipids prescription",
+        "diabetes",
+        "recommend evaluation blood",
+        "type diabetes mellitus",
+        "atorvastatin 10mg",
+        "lipids prescription metformin",
+        "pressure",
+        "metformin 500mg",
+        "daily atorvastatin",
+        "metformin 500mg twice",
+        "blood pressure",
+        "blood",
+        "evaluation blood pressure",
+        "prescription metformin 500mg",
+        "atorvastatin",
+        "twice daily atorvastatin"
+      ],
+      "suggested_specialties": [
+        "Internal Medicine",
+        "Endocrinology"
+      ],
+      "raw_excerpt": "Patient Name: John Doe\nAge: 52\nDate: 2025-11-01\nDiagnosis: Type 2 Diabetes Mellitus, Elevated Lipids\nPrescription:\n1. Metformin 500mg \u2013 twice daily\n2. Atorvastatin 10mg \u2013 once daily (night)\nNotes: Patient reports mild chest discomfort during exertion. Recommend evaluation of blood pressure,\nlipid profile, and HbA1c. Consider referral to Cardiology if symptoms persist.\nSignature: Dr. A Kumar\n",
+      "recorded_at": 1764388251.1932847
+    },
+    {
+      "type": "adherence_event",
+      "user_id": "user-1",
+      "med": "Atorvastatin",
+      "dose": "10mg",
+      "timestamp": 1764388252.259714,
+      "user_reply": "Yes, I took it.",
+      "recorded_at": 1764388252.259714
+    },
+    {
+      "type": "adherence_event",
+      "user_id": "user-1",
+      "med": "Metformin",
+      "dose": "500mg",
+      "timestamp": 1764388252.9266016,
+      "user_reply": "Yes, I took it.",
+      "recorded_at": 1764388252.9266016
+    },
+    {
+      "type": "adherence_event",
+      "user_id": "user-1",
+      "med": "Atorvastatin",
+      "dose": "10mg",
+      "timestamp": 1764388253.7948906,
+      "user_reply": "Yes, I took it.",
+      "recorded_at": 1764388253.7948906
+    },
+    {
+      "type": "adherence_event",
+      "user_id": "user-1",
+      "med": "Metformin",
+      "dose": "500mg",
+      "timestamp": 1764388254.8074145,
+      "user_reply": "Yes, I took it.",
+      "recorded_at": 1764388254.8074145
+    },
+    {
+      "type": "adherence_event",
+      "user_id": "user-1",
+      "med": "Atorvastatin",
+      "dose": "10mg",
+      "timestamp": 1764388255.8228476,
+      "user_reply": "Yes, I took it.",
+      "recorded_at": 1764388255.8228476
+    },
+    {
+      "type": "adherence_event",
+      "user_id": "user-1",
+      "med": "Metformin",
+      "dose": "500mg",
+      "timestamp": 1764388256.6390843,
+      "user_reply": "Yes, I took it.",
+      "recorded_at": 1764388256.6390843
+    },
+    {
+      "type": "adherence_event",
+      "user_id": "user-1",
+      "med": "Atorvastatin",
+      "dose": "10mg",
+      "timestamp": 1764388257.304969,
+      "user_reply": "Yes, I took it.",
+      "recorded_at": 1764388257.304969
+    },
+    {
+      "type": "adherence_event",
+      "user_id": "user-1",
+      "med": "Metformin",
+      "dose": "500mg",
+      "timestamp": 1764388257.961308,
+      "user_reply": "Yes, I took it.",
+      "recorded_at": 1764388257.961308
+    },
+    {
+      "type": "doctor_advice",
+      "user_id": "user-1",
+      "doctor_id": "dr-1",
+      "advice_text": "Recommend follow-up with cardiology for lipid management. Consider lipid panel and liver enzymes.",
+      "related_specialties": [
+        "Cardiology",
+        "Clinical Pathology"
+      ],
+      "timestamp": 1764388257.971681,
+      "recorded_at": 1764388257.971681
+    },
+    {
+      "type": "uploaded_doc_summary",
+      "user_id": "user-1",
+      "keywords": [
+        "pressure lipid",
+        "diabetes",
+        "lipids prescription metformin",
+        "lipid profile and",
+        "evaluation blood",
+        "mellitus elevated lipids",
+        "pressure",
+        "lipids prescription",
+        "daily atorvastatin 10mg",
+        "lipid profile",
+        "diagnosis type diabetes",
+        "metformin 500mg",
+        "blood pressure",
+        "blood",
+        "prescription metformin",
+        "evaluation blood pressure",
+        "daily atorvastatin",
+        "lipid",
+        "pressure lipid profile",
+        "diabetes mellitus"
+      ],
+      "suggested_specialties": [
+        "Endocrinology",
+        "Cardiology",
+        "Internal Medicine"
+      ],
+      "raw_excerpt": "Patient Name: John Doe\nAge: 52\nDate: 2025-11-01\nDiagnosis: Type 2 Diabetes Mellitus, Elevated Lipids\nPrescription:\n1. Metformin 500mg \u2013 twice daily\n2. Atorvastatin 10mg \u2013 once daily (night)\nNotes: Patient reports mild chest discomfort during exertion. Recommend evaluation of blood pressure,\nlipid profile, and HbA1c. Consider referral to Cardiology if symptoms persist.\nSignature: Dr. A Kumar\n",
+      "recorded_at": 1764388262.0194323
+    },
+    {
+      "type": "adherence_event",
+      "user_id": "user-1",
+      "med": "Atorvastatin",
+      "dose": "10mg",
+      "timestamp": 1764388262.5069602,
+      "user_reply": "Yes, I took it.",
+      "recorded_at": 1764388262.5069602
+    },
+    {
+      "type": "adherence_event",
+      "user_id": "user-1",
+      "med": "Metformin",
+      "dose": "500mg",
+      "timestamp": 1764388263.3367572,
+      "user_reply": "Yes, I took it.",
+      "recorded_at": 1764388263.3367572
+    },
+    {
+      "type": "adherence_event",
+      "user_id": "user-1",
+      "med": "Atorvastatin",
+      "dose": "10mg",
+      "timestamp": 1764388264.2149534,
+      "user_reply": "Yes, I took it.",
+      "recorded_at": 1764388264.2149534
+    },
+    {
+      "type": "adherence_event",
+      "user_id": "user-1",
+      "med": "Metformin",
+      "dose": "500mg",
+      "timestamp": 1764388265.2475252,
+      "user_reply": "Yes, I took it.",
+      "recorded_at": 1764388265.2475252
+    },
+    {
+      "type": "adherence_event",
+      "user_id": "user-1",
+      "med": "Atorvastatin",
+      "dose": "10mg",
+      "timestamp": 1764388265.9471638,
+      "user_reply": "Yes, I took it.",
+      "recorded_at": 1764388265.9471638
+    },
+    {
+      "type": "adherence_event",
+      "user_id": "user-1",
+      "med": "Metformin",
+      "dose": "500mg",
+      "timestamp": 1764388266.9289548,
+      "user_reply": "Yes, I took it.",
+      "recorded_at": 1764388266.9289548
+    },
+    {
+      "type": "adherence_event",
+      "user_id": "user-1",
+      "med": "Atorvastatin",
+      "dose": "10mg",
+      "timestamp": 1764388267.7450922,
+      "user_reply": "Yes, I took it.",
+      "recorded_at": 1764388267.7450922
+    },
+    {
+      "type": "adherence_event",
+      "user_id": "user-1",
+      "med": "Metformin",
+      "dose": "500mg",
+      "timestamp": 1764388268.6276278,
+      "user_reply": "Yes, I took it.",
+      "recorded_at": 1764388268.6276278
+    },
+    {
+      "type": "adherence_event",
+      "user_id": "user-1",
+      "med": "Atorvastatin",
+      "dose": "10mg",
+      "timestamp": 1764388269.4435446,
+      "user_reply": "Yes, I took it.",
+      "recorded_at": 1764388269.4435446
+    },
+    {
+      "type": "adherence_event",
+      "user_id": "user-1",
+      "med": "Metformin",
+      "dose": "500mg",
+      "timestamp": 1764388270.2759516,
+      "user_reply": "Yes, I took it.",
+      "recorded_at": 1764388270.2759516
+    },
+    {
+      "type": "doctor_advice",
+      "user_id": "user-1",
+      "doctor_id": "dr-1",
+      "advice_text": "Recommend follow-up with cardiology for lipid management. Consider lipid panel and liver enzymes.",
+      "related_specialties": [
+        "Cardiology",
+        "Clinical Pathology"
+      ],
+      "timestamp": 1764388270.2759516,
+      "recorded_at": 1764388270.2759516
+    },
+    {
+      "type": "uploaded_doc_summary",
+      "user_id": "user-1",
+      "keywords": [
+        "metformin 500mg twice",
+        "blood pressure",
+        "lipids",
+        "diabetes mellitus elevated",
+        "lipids prescription",
+        "blood",
+        "diagnosis type diabetes",
+        "lipids prescription metformin",
+        "evaluation blood",
+        "pressure lipid",
+        "pressure lipid profile",
+        "diabetes mellitus",
+        "mellitus elevated lipids",
+        "daily atorvastatin 10mg",
+        "metformin",
+        "lipid",
+        "atorvastatin 10mg",
+        "elevated lipids prescription",
+        "prescription metformin",
+        "lipid profile"
+      ],
+      "suggested_specialties": [
+        "Cardiology",
+        "Endocrinology",
+        "Internal Medicine"
+      ],
+      "raw_excerpt": "Patient Name: John Doe\nAge: 52\nDate: 2025-11-01\nDiagnosis: Type 2 Diabetes Mellitus, Elevated Lipids\nPrescription:\n1. Metformin 500mg \u2013 twice daily\n2. Atorvastatin 10mg \u2013 once daily (night)\nNotes: Patient reports mild chest discomfort during exertion. Recommend evaluation of blood pressure,\nlipid profile, and HbA1c. Consider referral to Cardiology if symptoms persist.\nSignature: Dr. A Kumar\n",
+      "recorded_at": 1764388415.6729367
+    },
+    {
+      "type": "adherence_event",
+      "user_id": "user-1",
+      "med": "Atorvastatin",
+      "dose": "10mg",
+      "timestamp": 1764388416.6680772,
+      "user_reply": "Yes, I took it.",
+      "recorded_at": 1764388416.6680772
+    },
+    {
+      "type": "adherence_event",
+      "user_id": "user-1",
+      "med": "Metformin",
+      "dose": "500mg",
+      "timestamp": 1764388417.2089114,
+      "user_reply": "Yes, I took it.",
+      "recorded_at": 1764388417.2089114
+    },
+    {
+      "type": "adherence_event",
+      "user_id": "user-1",
+      "med": "Atorvastatin",
+      "dose": "10mg",
+      "timestamp": 1764388417.700507,
+      "user_reply": "Yes, I took it.",
+      "recorded_at": 1764388417.700507
+    },
+    {
+      "type": "adherence_event",
+      "user_id": "user-1",
+      "med": "Metformin",
+      "dose": "500mg",
+      "timestamp": 1764388418.201725,
+      "user_reply": "Yes, I took it.",
+      "recorded_at": 1764388418.201725
+    },
+    {
+      "type": "adherence_event",
+      "user_id": "user-1",
+      "med": "Atorvastatin",
+      "dose": "10mg",
+      "timestamp": 1764388418.6403286,
+      "user_reply": "Yes, I took it.",
+      "recorded_at": 1764388418.6403286
+    },
+    {
+      "type": "adherence_event",
+      "user_id": "user-1",
+      "med": "Metformin",
+      "dose": "500mg",
+      "timestamp": 1764388419.1449869,
+      "user_reply": "Yes, I took it.",
+      "recorded_at": 1764388419.1449869
+    },
+    {
+      "type": "adherence_event",
+      "user_id": "user-1",
+      "med": "Atorvastatin",
+      "dose": "10mg",
+      "timestamp": 1764388419.6294894,
+      "user_reply": "Yes, I took it.",
+      "recorded_at": 1764388419.6294894
+    },
+    {
+      "type": "adherence_event",
+      "user_id": "user-1",
+      "med": "Metformin",
+      "dose": "500mg",
+      "timestamp": 1764388420.1245685,
+      "user_reply": "Yes, I took it.",
+      "recorded_at": 1764388420.1245685
+    },
+    {
+      "type": "adherence_event",
+      "user_id": "user-1",
+      "med": "Atorvastatin",
+      "dose": "10mg",
+      "timestamp": 1764388420.603712,
+      "user_reply": "Yes, I took it.",
+      "recorded_at": 1764388420.603712
+    },
+    {
+      "type": "adherence_event",
+      "user_id": "user-1",
+      "med": "Metformin",
+      "dose": "500mg",
+      "timestamp": 1764388421.2713878,
+      "user_reply": "Yes, I took it.",
+      "recorded_at": 1764388421.2713878
+    },
+    {
+      "type": "adherence_event",
+      "user_id": "user-1",
+      "med": "Atorvastatin",
+      "dose": "10mg",
+      "timestamp": 1764388421.7402792,
+      "user_reply": "Yes, I took it.",
+      "recorded_at": 1764388421.7402792
+    },
+    {
+      "type": "adherence_event",
+      "user_id": "user-1",
+      "med": "Metformin",
+      "dose": "500mg",
+      "timestamp": 1764388422.2431517,
+      "user_reply": "Yes, I took it.",
+      "recorded_at": 1764388422.2431517
+    },
+    {
+      "type": "doctor_advice",
+      "user_id": "user-1",
+      "doctor_id": "dr-1",
+      "advice_text": "Recommend follow-up with cardiology for lipid management. Consider lipid panel and liver enzymes.",
+      "related_specialties": [
+        "Cardiology",
+        "Clinical Pathology"
+      ],
+      "timestamp": 1764388422.2431517,
+      "recorded_at": 1764388422.2431517
+    },
+    {
+      "type": "uploaded_doc_summary",
+      "user_id": "user-1",
+      "keywords": [
+        "atorvastatin 10mg once",
+        "prescription metformin 500mg",
+        "pressure lipid profile",
+        "diabetes mellitus",
+        "diagnosis type diabetes",
+        "lipids prescription metformin",
+        "evaluation blood pressure",
+        "metformin 500mg twice",
+        "blood pressure lipid",
+        "pressure lipid",
+        "metformin 500mg",
+        "lipids prescription",
+        "blood",
+        "lipid profile and",
+        "pressure",
+        "twice daily atorvastatin",
+        "lipid",
+        "blood pressure",
+        "diabetes mellitus elevated",
+        "lipid profile"
+      ],
+      "suggested_specialties": [
+        "Endocrinology",
+        "Internal Medicine"
+      ],
+      "raw_excerpt": "Patient Name: John Doe\nAge: 52\nDate: 2025-11-01\nDiagnosis: Type 2 Diabetes Mellitus, Elevated Lipids\nPrescription:\n1. Metformin 500mg \u2013 twice daily\n2. Atorvastatin 10mg \u2013 once daily (night)\nNotes: Patient reports mild chest discomfort during exertion. Recommend evaluation of blood pressure,\nlipid profile, and HbA1c. Consider referral to Cardiology if symptoms persist.\nSignature: Dr. A Kumar\n",
+      "recorded_at": 1764388467.6329815
+    },
+    {
+      "type": "adherence_event",
+      "user_id": "user-1",
+      "med": "Atorvastatin",
+      "dose": "10mg",
+      "timestamp": 1764388468.4302912,
+      "user_reply": "Yes, I took it.",
+      "recorded_at": 1764388468.4302912
+    },
+    {
+      "type": "adherence_event",
+      "user_id": "user-1",
+      "med": "Metformin",
+      "dose": "500mg",
+      "timestamp": 1764388469.069886,
+      "user_reply": "Yes, I took it.",
+      "recorded_at": 1764388469.069886
+    },
+    {
+      "type": "adherence_event",
+      "user_id": "user-1",
+      "med": "Atorvastatin",
+      "dose": "10mg",
+      "timestamp": 1764388469.7601194,
+      "user_reply": "Yes, I took it.",
+      "recorded_at": 1764388469.7601194
+    },
+    {
+      "type": "adherence_event",
+      "user_id": "user-1",
+      "med": "Metformin",
+      "dose": "500mg",
+      "timestamp": 1764388470.274994,
+      "user_reply": "Yes, I took it.",
+      "recorded_at": 1764388470.274994
+    },
+    {
+      "type": "adherence_event",
+      "user_id": "user-1",
+      "med": "Atorvastatin",
+      "dose": "10mg",
+      "timestamp": 1764388470.9190276,
+      "user_reply": "Yes, I took it.",
+      "recorded_at": 1764388470.9190276
+    },
+    {
+      "type": "adherence_event",
+      "user_id": "user-1",
+      "med": "Metformin",
+      "dose": "500mg",
+      "timestamp": 1764388471.5845313,
+      "user_reply": "Yes, I took it.",
+      "recorded_at": 1764388471.5845313
+    },
+    {
+      "type": "adherence_event",
+      "user_id": "user-1",
+      "med": "Atorvastatin",
+      "dose": "10mg",
+      "timestamp": 1764388472.2344437,
+      "user_reply": "Yes, I took it.",
+      "recorded_at": 1764388472.2344437
+    },
+    {
+      "type": "adherence_event",
+      "user_id": "user-1",
+      "med": "Metformin",
+      "dose": "500mg",
+      "timestamp": 1764388472.9432483,
+      "user_reply": "Yes, I took it.",
+      "recorded_at": 1764388472.9432483
+    },
+    {
+      "type": "adherence_event",
+      "user_id": "user-1",
+      "med": "Atorvastatin",
+      "dose": "10mg",
+      "timestamp": 1764388473.2943935,
+      "user_reply": "Yes, I took it.",
+      "recorded_at": 1764388473.2943935
+    },
+    {
+      "type": "adherence_event",
+      "user_id": "user-1",
+      "med": "Metformin",
+      "dose": "500mg",
+      "timestamp": 1764388473.9705148,
+      "user_reply": "Yes, I took it.",
+      "recorded_at": 1764388473.9705148
+    },
+    {
+      "type": "adherence_event",
+      "user_id": "user-1",
+      "med": "Atorvastatin",
+      "dose": "10mg",
+      "timestamp": 1764388474.6321912,
+      "user_reply": "Yes, I took it.",
+      "recorded_at": 1764388474.6321912
+    },
+    {
+      "type": "adherence_event",
+      "user_id": "user-1",
+      "med": "Metformin",
+      "dose": "500mg",
+      "timestamp": 1764388475.082349,
+      "user_reply": "Yes, I took it.",
+      "recorded_at": 1764388475.082349
+    },
+    {
+      "type": "adherence_event",
+      "user_id": "user-1",
+      "med": "Atorvastatin",
+      "dose": "10mg",
+      "timestamp": 1764388475.763999,
+      "user_reply": "Yes, I took it.",
+      "recorded_at": 1764388475.763999
+    },
+    {
+      "type": "adherence_event",
+      "user_id": "user-1",
+      "med": "Metformin",
+      "dose": "500mg",
+      "timestamp": 1764388476.4437287,
+      "user_reply": "Yes, I took it.",
+      "recorded_at": 1764388476.4437287
+    },
+    {
+      "type": "doctor_advice",
+      "user_id": "user-1",
+      "doctor_id": "dr-1",
+      "advice_text": "Recommend follow-up with cardiology for lipid management. Consider lipid panel and liver enzymes.",
+      "related_specialties": [
+        "Cardiology",
+        "Clinical Pathology"
+      ],
+      "timestamp": 1764388476.4437287,
+      "recorded_at": 1764388476.4437287
+    },
+    {
+      "type": "uploaded_doc_summary",
+      "user_id": "user-1",
+      "keywords": [
+        "elevated lipids prescription",
+        "pressure",
+        "lipid profile and",
+        "daily atorvastatin",
+        "prescription metformin",
+        "blood pressure lipid",
+        "diabetes",
+        "lipid profile",
+        "atorvastatin",
+        "mellitus elevated lipids",
+        "type diabetes mellitus",
+        "pressure lipid",
+        "metformin 500mg twice",
+        "blood",
+        "metformin",
+        "diagnosis type diabetes",
+        "atorvastatin 10mg once",
+        "twice daily atorvastatin",
+        "evaluation blood",
+        "lipids prescription metformin"
+      ],
+      "suggested_specialties": [
+        "Endocrinology",
+        "Cardiology",
+        "Internal Medicine"
+      ],
+      "raw_excerpt": "Patient Name: John Doe\nAge: 52\nDate: 2025-11-01\nDiagnosis: Type 2 Diabetes Mellitus, Elevated Lipids\nPrescription:\n1. Metformin 500mg \u2013 twice daily\n2. Atorvastatin 10mg \u2013 once daily (night)\nNotes: Patient reports mild chest discomfort during exertion. Recommend evaluation of blood pressure,\nlipid profile, and HbA1c. Consider referral to Cardiology if symptoms persist.\nSignature: Dr. A Kumar\n",
+      "recorded_at": 1764388868.350802
+    },
+    {
+      "type": "adherence_event",
+      "user_id": "user-1",
+      "med": "Atorvastatin",
+      "dose": "10mg",
+      "timestamp": 1764388868.709138,
+      "user_reply": "Yes, I took it.",
+      "recorded_at": 1764388868.709138
+    },
+    {
+      "type": "adherence_event",
+      "user_id": "user-1",
+      "med": "Metformin",
+      "dose": "500mg",
+      "timestamp": 1764388869.033088,
+      "user_reply": "Yes, I took it.",
+      "recorded_at": 1764388869.033088
+    },
+    {
+      "type": "adherence_event",
+      "user_id": "user-1",
+      "med": "Atorvastatin",
+      "dose": "10mg",
+      "timestamp": 1764388869.1762762,
+      "user_reply": "Yes, I took it.",
+      "recorded_at": 1764388869.1762762
+    },
+    {
+      "type": "adherence_event",
+      "user_id": "user-1",
+      "med": "Metformin",
+      "dose": "500mg",
+      "timestamp": 1764388869.4996603,
+      "user_reply": "Yes, I took it.",
+      "recorded_at": 1764388869.4996603
+    },
+    {
+      "type": "adherence_event",
+      "user_id": "user-1",
+      "med": "Atorvastatin",
+      "dose": "10mg",
+      "timestamp": 1764388869.8092906,
+      "user_reply": "Yes, I took it.",
+      "recorded_at": 1764388869.8092906
+    },
+    {
+      "type": "adherence_event",
+      "user_id": "user-1",
+      "med": "Metformin",
+      "dose": "500mg",
+      "timestamp": 1764388870.242217,
+      "user_reply": "Yes, I took it.",
+      "recorded_at": 1764388870.242217
+    },
+    {
+      "type": "adherence_event",
+      "user_id": "user-1",
+      "med": "Atorvastatin",
+      "dose": "10mg",
+      "timestamp": 1764388870.4973593,
+      "user_reply": "Yes, I took it.",
+      "recorded_at": 1764388870.4973593
+    },
+    {
+      "type": "adherence_event",
+      "user_id": "user-1",
+      "med": "Metformin",
+      "dose": "500mg",
+      "timestamp": 1764388870.7527745,
+      "user_reply": "Yes, I took it.",
+      "recorded_at": 1764388870.7527745
+    },
+    {
+      "type": "adherence_event",
+      "user_id": "user-1",
+      "med": "Atorvastatin",
+      "dose": "10mg",
+      "timestamp": 1764388871.1487255,
+      "user_reply": "Yes, I took it.",
+      "recorded_at": 1764388871.1487255
+    },
+    {
+      "type": "adherence_event",
+      "user_id": "user-1",
+      "med": "Metformin",
+      "dose": "500mg",
+      "timestamp": 1764388871.5214107,
+      "user_reply": "Yes, I took it.",
+      "recorded_at": 1764388871.5214107
+    },
+    {
+      "type": "adherence_event",
+      "user_id": "user-1",
+      "med": "Atorvastatin",
+      "dose": "10mg",
+      "timestamp": 1764388871.9619584,
+      "user_reply": "Yes, I took it.",
+      "recorded_at": 1764388871.9619584
+    },
+    {
+      "type": "adherence_event",
+      "user_id": "user-1",
+      "med": "Metformin",
+      "dose": "500mg",
+      "timestamp": 1764388872.3568876,
+      "user_reply": "Yes, I took it.",
+      "recorded_at": 1764388872.3568876
+    },
+    {
+      "type": "adherence_event",
+      "user_id": "user-1",
+      "med": "Atorvastatin",
+      "dose": "10mg",
+      "timestamp": 1764388872.748124,
+      "user_reply": "Yes, I took it.",
+      "recorded_at": 1764388872.748124
+    },
+    {
+      "type": "adherence_event",
+      "user_id": "user-1",
+      "med": "Metformin",
+      "dose": "500mg",
+      "timestamp": 1764388872.9862726,
+      "user_reply": "Yes, I took it.",
+      "recorded_at": 1764388872.9862726
+    },
+    {
+      "type": "adherence_event",
+      "user_id": "user-1",
+      "med": "Atorvastatin",
+      "dose": "10mg",
+      "timestamp": 1764388873.2456133,
+      "user_reply": "Yes, I took it.",
+      "recorded_at": 1764388873.2456133
+    },
+    {
+      "type": "adherence_event",
+      "user_id": "user-1",
+      "med": "Metformin",
+      "dose": "500mg",
+      "timestamp": 1764388873.6282518,
+      "user_reply": "Yes, I took it.",
+      "recorded_at": 1764388873.6282518
+    },
+    {
+      "type": "doctor_advice",
+      "user_id": "user-1",
+      "doctor_id": "dr-1",
+      "advice_text": "Recommend follow-up with cardiology for lipid management. Consider lipid panel and liver enzymes.",
+      "related_specialties": [
+        "Cardiology",
+        "Clinical Pathology"
+      ],
+      "timestamp": 1764388873.6440284,
+      "recorded_at": 1764388873.6440284
+    },
+    {
+      "type": "uploaded_doc_summary",
+      "user_id": "user-1",
+      "keywords": [
+        "lipids",
+        "elevated lipids",
+        "lipids prescription",
+        "blood pressure",
+        "lipid profile and",
+        "diabetes",
+        "lipid",
+        "atorvastatin",
+        "type diabetes mellitus",
+        "type diabetes",
+        "lipid profile",
+        "metformin",
+        "diagnosis type diabetes",
+        "lipids prescription metformin",
+        "evaluation blood",
+        "diabetes mellitus",
+        "prescription metformin",
+        "pressure",
+        "evaluation blood pressure",
+        "blood"
+      ],
+      "suggested_specialties": [
+        "Endocrinology",
+        "Internal Medicine",
+        "Cardiology"
+      ],
+      "raw_excerpt": "Patient Name: John Doe\nAge: 52\nDate: 2025-11-01\nDiagnosis: Type 2 Diabetes Mellitus, Elevated Lipids\nPrescription:\n1. Metformin 500mg \u2013 twice daily\n2. Atorvastatin 10mg \u2013 once daily (night)\nNotes: Patient reports mild chest discomfort during exertion. Recommend evaluation of blood pressure,\nlipid profile, and HbA1c. Consider referral to Cardiology if symptoms persist.\nSignature: Dr. A Kumar\n",
+      "recorded_at": 1764389272.8800077
+    },
+    {
+      "type": "adherence_event",
+      "user_id": "user-1",
+      "med": "Atorvastatin",
+      "dose": "10mg",
+      "timestamp": 1764389278.4313252,
+      "user_reply": "Yes, I took it.",
+      "recorded_at": 1764389278.4313252
+    },
+    {
+      "type": "adherence_event",
+      "user_id": "user-1",
+      "med": "Metformin",
+      "dose": "500mg",
+      "timestamp": 1764389284.5606647,
+      "user_reply": "Yes, I took it.",
+      "recorded_at": 1764389284.5606647
+    },
+    {
+      "type": "adherence_event",
+      "user_id": "user-1",
+      "med": "Atorvastatin",
+      "dose": "10mg",
+      "timestamp": 1764389289.8729532,
+      "user_reply": "Yes, I took it.",
+      "recorded_at": 1764389289.8729532
+    },
+    {
+      "type": "adherence_event",
+      "user_id": "user-1",
+      "med": "Metformin",
+      "dose": "500mg",
+      "timestamp": 1764389290.224697,
+      "user_reply": "Yes, I took it.",
+      "recorded_at": 1764389290.224697
+    },
+    {
+      "type": "adherence_event",
+      "user_id": "user-1",
+      "med": "Atorvastatin",
+      "dose": "10mg",
+      "timestamp": 1764389290.576337,
+      "user_reply": "Yes, I took it.",
+      "recorded_at": 1764389290.576337
+    },
+    {
+      "type": "adherence_event",
+      "user_id": "user-1",
+      "med": "Metformin",
+      "dose": "500mg",
+      "timestamp": 1764389290.7811317,
+      "user_reply": "Yes, I took it.",
+      "recorded_at": 1764389290.7811317
+    },
+    {
+      "type": "adherence_event",
+      "user_id": "user-1",
+      "med": "Atorvastatin",
+      "dose": "10mg",
+      "timestamp": 1764389291.12137,
+      "user_reply": "Yes, I took it.",
+      "recorded_at": 1764389291.12137
+    },
+    {
+      "type": "adherence_event",
+      "user_id": "user-1",
+      "med": "Metformin",
+      "dose": "500mg",
+      "timestamp": 1764389291.491821,
+      "user_reply": "Yes, I took it.",
+      "recorded_at": 1764389291.491821
+    },
+    {
+      "type": "adherence_event",
+      "user_id": "user-1",
+      "med": "Atorvastatin",
+      "dose": "10mg",
+      "timestamp": 1764389291.8444097,
+      "user_reply": "Yes, I took it.",
+      "recorded_at": 1764389291.8444097
+    },
+    {
+      "type": "adherence_event",
+      "user_id": "user-1",
+      "med": "Metformin",
+      "dose": "500mg",
+      "timestamp": 1764389292.1729863,
+      "user_reply": "Yes, I took it.",
+      "recorded_at": 1764389292.1729863
+    },
+    {
+      "type": "adherence_event",
+      "user_id": "user-1",
+      "med": "Atorvastatin",
+      "dose": "10mg",
+      "timestamp": 1764389292.5199814,
+      "user_reply": "Yes, I took it.",
+      "recorded_at": 1764389292.5199814
+    },
+    {
+      "type": "adherence_event",
+      "user_id": "user-1",
+      "med": "Metformin",
+      "dose": "500mg",
+      "timestamp": 1764389292.8728793,
+      "user_reply": "Yes, I took it.",
+      "recorded_at": 1764389292.8728793
+    },
+    {
+      "type": "adherence_event",
+      "user_id": "user-1",
+      "med": "Atorvastatin",
+      "dose": "10mg",
+      "timestamp": 1764389293.219694,
+      "user_reply": "Yes, I took it.",
+      "recorded_at": 1764389293.219694
+    },
+    {
+      "type": "adherence_event",
+      "user_id": "user-1",
+      "med": "Metformin",
+      "dose": "500mg",
+      "timestamp": 1764389293.579233,
+      "user_reply": "Yes, I took it.",
+      "recorded_at": 1764389293.579233
+    },
+    {
+      "type": "adherence_event",
+      "user_id": "user-1",
+      "med": "Atorvastatin",
+      "dose": "10mg",
+      "timestamp": 1764389293.93205,
+      "user_reply": "Yes, I took it.",
+      "recorded_at": 1764389293.93205
+    },
+    {
+      "type": "adherence_event",
+      "user_id": "user-1",
+      "med": "Metformin",
+      "dose": "500mg",
+      "timestamp": 1764389294.2754488,
+      "user_reply": "Yes, I took it.",
+      "recorded_at": 1764389294.2754488
+    },
+    {
+      "type": "adherence_event",
+      "user_id": "user-1",
+      "med": "Atorvastatin",
+      "dose": "10mg",
+      "timestamp": 1764389294.6324701,
+      "user_reply": "Yes, I took it.",
+      "recorded_at": 1764389294.6324701
+    },
+    {
+      "type": "adherence_event",
+      "user_id": "user-1",
+      "med": "Metformin",
+      "dose": "500mg",
+      "timestamp": 1764389294.8082798,
+      "user_reply": "Yes, I took it.",
+      "recorded_at": 1764389294.8082798
+    },
+    {
+      "type": "doctor_advice",
+      "user_id": "user-1",
+      "doctor_id": "dr-1",
+      "advice_text": "Recommend follow-up with cardiology for lipid management. Consider lipid panel and liver enzymes.",
+      "related_specialties": [
+        "Cardiology",
+        "Clinical Pathology"
+      ],
+      "timestamp": 1764389294.8223631,
+      "recorded_at": 1764389294.8223631
+    },
+    {
+      "type": "uploaded_doc_summary",
+      "user_id": "user-1",
+      "keywords": [
+        "evaluation blood",
+        "recommend evaluation blood",
+        "diagnosis type diabetes",
+        "blood",
+        "mellitus elevated lipids",
+        "pressure",
+        "type diabetes",
+        "prescription metformin 500mg",
+        "daily atorvastatin",
+        "lipid profile and",
+        "metformin",
+        "elevated lipids",
+        "prescription metformin",
+        "pressure lipid profile",
+        "lipids prescription metformin",
+        "twice daily atorvastatin",
+        "pressure lipid",
+        "metformin 500mg",
+        "metformin 500mg twice",
+        "atorvastatin 10mg once"
+      ],
+      "suggested_specialties": [
+        "Internal Medicine",
+        "Cardiology",
+        "Endocrinology"
+      ],
+      "raw_excerpt": "Patient Name: John Doe\nAge: 52\nDate: 2025-11-01\nDiagnosis: Type 2 Diabetes Mellitus, Elevated Lipids\nPrescription:\n1. Metformin 500mg \u2013 twice daily\n2. Atorvastatin 10mg \u2013 once daily (night)\nNotes: Patient reports mild chest discomfort during exertion. Recommend evaluation of blood pressure,\nlipid profile, and HbA1c. Consider referral to Cardiology if symptoms persist.\nSignature: Dr. A Kumar\n",
+      "recorded_at": 1764389721.9087715
+    },
+    {
+      "type": "adherence_event",
+      "user_id": "user-1",
+      "med": "Atorvastatin",
+      "dose": "10mg",
+      "timestamp": 1764389725.2417572,
+      "user_reply": "Yes, I took it.",
+      "recorded_at": 1764389725.2417572
+    },
+    {
+      "type": "adherence_event",
+      "user_id": "user-1",
+      "med": "Metformin",
+      "dose": "500mg",
+      "timestamp": 1764389729.2805607,
+      "user_reply": "Yes, I took it.",
+      "recorded_at": 1764389729.2805607
+    },
+    {
+      "type": "adherence_event",
+      "user_id": "user-1",
+      "med": "Atorvastatin",
+      "dose": "10mg",
+      "timestamp": 1764389732.5107207,
+      "user_reply": "Yes, I took it.",
+      "recorded_at": 1764389732.5107207
+    },
+    {
+      "type": "adherence_event",
+      "user_id": "user-1",
+      "med": "Metformin",
+      "dose": "500mg",
+      "timestamp": 1764389732.6934257,
+      "user_reply": "Yes, I took it.",
+      "recorded_at": 1764389732.6934257
+    },
+    {
+      "type": "adherence_event",
+      "user_id": "user-1",
+      "med": "Atorvastatin",
+      "dose": "10mg",
+      "timestamp": 1764389733.0392954,
+      "user_reply": "Yes, I took it.",
+      "recorded_at": 1764389733.0392954
+    },
+    {
+      "type": "adherence_event",
+      "user_id": "user-1",
+      "med": "Metformin",
+      "dose": "500mg",
+      "timestamp": 1764389733.4039412,
+      "user_reply": "Yes, I took it.",
+      "recorded_at": 1764389733.4039412
+    },
+    {
+      "type": "adherence_event",
+      "user_id": "user-1",
+      "med": "Atorvastatin",
+      "dose": "10mg",
+      "timestamp": 1764389733.7681556,
+      "user_reply": "Yes, I took it.",
+      "recorded_at": 1764389733.7681556
+    },
+    {
+      "type": "adherence_event",
+      "user_id": "user-1",
+      "med": "Metformin",
+      "dose": "500mg",
+      "timestamp": 1764389733.9613926,
+      "user_reply": "Yes, I took it.",
+      "recorded_at": 1764389733.9613926
+    },
+    {
+      "type": "adherence_event",
+      "user_id": "user-1",
+      "med": "Atorvastatin",
+      "dose": "10mg",
+      "timestamp": 1764389734.1499672,
+      "user_reply": "Yes, I took it.",
+      "recorded_at": 1764389734.1499672
+    },
+    {
+      "type": "adherence_event",
+      "user_id": "user-1",
+      "med": "Metformin",
+      "dose": "500mg",
+      "timestamp": 1764389734.344886,
+      "user_reply": "Yes, I took it.",
+      "recorded_at": 1764389734.344886
+    },
+    {
+      "type": "adherence_event",
+      "user_id": "user-1",
+      "med": "Atorvastatin",
+      "dose": "10mg",
+      "timestamp": 1764389734.5354037,
+      "user_reply": "Yes, I took it.",
+      "recorded_at": 1764389734.5354037
+    },
+    {
+      "type": "adherence_event",
+      "user_id": "user-1",
+      "med": "Metformin",
+      "dose": "500mg",
+      "timestamp": 1764389734.8989794,
+      "user_reply": "Yes, I took it.",
+      "recorded_at": 1764389734.8989794
+    },
+    {
+      "type": "adherence_event",
+      "user_id": "user-1",
+      "med": "Atorvastatin",
+      "dose": "10mg",
+      "timestamp": 1764389735.0775402,
+      "user_reply": "Yes, I took it.",
+      "recorded_at": 1764389735.0775402
+    },
+    {
+      "type": "adherence_event",
+      "user_id": "user-1",
+      "med": "Metformin",
+      "dose": "500mg",
+      "timestamp": 1764389735.434991,
+      "user_reply": "Yes, I took it.",
+      "recorded_at": 1764389735.434991
+    },
+    {
+      "type": "adherence_event",
+      "user_id": "user-1",
+      "med": "Atorvastatin",
+      "dose": "10mg",
+      "timestamp": 1764389735.7833261,
+      "user_reply": "Yes, I took it.",
+      "recorded_at": 1764389735.7833261
+    },
+    {
+      "type": "adherence_event",
+      "user_id": "user-1",
+      "med": "Metformin",
+      "dose": "500mg",
+      "timestamp": 1764389736.12623,
+      "user_reply": "Yes, I took it.",
+      "recorded_at": 1764389736.12623
+    },
+    {
+      "type": "adherence_event",
+      "user_id": "user-1",
+      "med": "Atorvastatin",
+      "dose": "10mg",
+      "timestamp": 1764389736.4802883,
+      "user_reply": "Yes, I took it.",
+      "recorded_at": 1764389736.4802883
+    },
+    {
+      "type": "adherence_event",
+      "user_id": "user-1",
+      "med": "Metformin",
+      "dose": "500mg",
+      "timestamp": 1764389736.821921,
+      "user_reply": "Yes, I took it.",
+      "recorded_at": 1764389736.821921
+    },
+    {
+      "type": "adherence_event",
+      "user_id": "user-1",
+      "med": "Atorvastatin",
+      "dose": "10mg",
+      "timestamp": 1764389737.1682177,
+      "user_reply": "Yes, I took it.",
+      "recorded_at": 1764389737.1682177
+    },
+    {
+      "type": "adherence_event",
+      "user_id": "user-1",
+      "med": "Metformin",
+      "dose": "500mg",
+      "timestamp": 1764389737.528211,
+      "user_reply": "Yes, I took it.",
+      "recorded_at": 1764389737.528211
+    },
+    {
+      "type": "doctor_advice",
+      "user_id": "user-1",
+      "doctor_id": "dr-1",
+      "advice_text": "Recommend follow-up with cardiology for lipid management. Consider lipid panel and liver enzymes.",
+      "related_specialties": [
+        "Cardiology",
+        "Clinical Pathology"
+      ],
+      "timestamp": 1764389737.528211,
+      "recorded_at": 1764389737.528211
+    },
+    {
+      "type": "uploaded_doc_summary",
+      "user_id": "user-1",
+      "keywords": [
+        "diabetes mellitus",
+        "atorvastatin",
+        "diabetes",
+        "atorvastatin 10mg once",
+        "recommend evaluation blood",
+        "type diabetes mellitus",
+        "blood",
+        "prescription metformin",
+        "daily atorvastatin",
+        "prescription metformin 500mg",
+        "lipids prescription",
+        "pressure lipid",
+        "evaluation blood",
+        "blood pressure",
+        "elevated lipids",
+        "pressure",
+        "lipid profile and",
+        "metformin 500mg",
+        "twice daily atorvastatin",
+        "lipids prescription metformin"
+      ],
+      "suggested_specialties": [
+        "Internal Medicine",
+        "Cardiology",
+        "Endocrinology"
+      ],
+      "raw_excerpt": "Patient Name: John Doe\nAge: 52\nDate: 2025-11-01\nDiagnosis: Type 2 Diabetes Mellitus, Elevated Lipids\nPrescription:\n1. Metformin 500mg \u2013 twice daily\n2. Atorvastatin 10mg \u2013 once daily (night)\nNotes: Patient reports mild chest discomfort during exertion. Recommend evaluation of blood pressure,\nlipid profile, and HbA1c. Consider referral to Cardiology if symptoms persist.\nSignature: Dr. A Kumar\n",
+      "recorded_at": 1764390011.002841
+    },
+    {
+      "type": "adherence_event",
+      "user_id": "user-1",
+      "med": "Atorvastatin",
+      "dose": "10mg",
+      "timestamp": 1764390020.6400566,
+      "user_reply": "Yes, I took it.",
+      "recorded_at": 1764390020.6400566
+    },
+    {
+      "type": "adherence_event",
+      "user_id": "user-1",
+      "med": "Metformin",
+      "dose": "500mg",
+      "timestamp": 1764390032.0795412,
+      "user_reply": "Yes, I took it.",
+      "recorded_at": 1764390032.0795412
+    },
+    {
+      "type": "adherence_event",
+      "user_id": "user-1",
+      "med": "Atorvastatin",
+      "dose": "10mg",
+      "timestamp": 1764390041.659453,
+      "user_reply": "Yes, I took it.",
+      "recorded_at": 1764390041.659453
+    },
+    {
+      "type": "adherence_event",
+      "user_id": "user-1",
+      "med": "Metformin",
+      "dose": "500mg",
+      "timestamp": 1764390056.8148413,
+      "user_reply": "Yes, I took it.",
+      "recorded_at": 1764390056.8148413
+    },
+    {
+      "type": "adherence_event",
+      "user_id": "user-1",
+      "med": "Atorvastatin",
+      "dose": "10mg",
+      "timestamp": 1764390066.5588145,
+      "user_reply": "Yes, I took it.",
+      "recorded_at": 1764390066.5588145
+    },
+    {
+      "type": "adherence_event",
+      "user_id": "user-1",
+      "med": "Metformin",
+      "dose": "500mg",
+      "timestamp": 1764390066.9224238,
+      "user_reply": "Yes, I took it.",
+      "recorded_at": 1764390066.9224238
+    },
+    {
+      "type": "adherence_event",
+      "user_id": "user-1",
+      "med": "Atorvastatin",
+      "dose": "10mg",
+      "timestamp": 1764390067.2901726,
+      "user_reply": "Yes, I took it.",
+      "recorded_at": 1764390067.2901726
+    },
+    {
+      "type": "adherence_event",
+      "user_id": "user-1",
+      "med": "Metformin",
+      "dose": "500mg",
+      "timestamp": 1764390067.4840658,
+      "user_reply": "Yes, I took it.",
+      "recorded_at": 1764390067.4840658
+    },
+    {
+      "type": "adherence_event",
+      "user_id": "user-1",
+      "med": "Atorvastatin",
+      "dose": "10mg",
+      "timestamp": 1764390067.8829527,
+      "user_reply": "Yes, I took it.",
+      "recorded_at": 1764390067.8829527
+    },
+    {
+      "type": "adherence_event",
+      "user_id": "user-1",
+      "med": "Metformin",
+      "dose": "500mg",
+      "timestamp": 1764390068.2618148,
+      "user_reply": "Yes, I took it.",
+      "recorded_at": 1764390068.2618148
+    },
+    {
+      "type": "adherence_event",
+      "user_id": "user-1",
+      "med": "Atorvastatin",
+      "dose": "10mg",
+      "timestamp": 1764390068.619333,
+      "user_reply": "Yes, I took it.",
+      "recorded_at": 1764390068.619333
+    },
+    {
+      "type": "adherence_event",
+      "user_id": "user-1",
+      "med": "Metformin",
+      "dose": "500mg",
+      "timestamp": 1764390068.8095465,
+      "user_reply": "Yes, I took it.",
+      "recorded_at": 1764390068.8095465
+    },
+    {
+      "type": "adherence_event",
+      "user_id": "user-1",
+      "med": "Atorvastatin",
+      "dose": "10mg",
+      "timestamp": 1764390069.1673212,
+      "user_reply": "Yes, I took it.",
+      "recorded_at": 1764390069.1673212
+    },
+    {
+      "type": "adherence_event",
+      "user_id": "user-1",
+      "med": "Metformin",
+      "dose": "500mg",
+      "timestamp": 1764390069.3887632,
+      "user_reply": "Yes, I took it.",
+      "recorded_at": 1764390069.3887632
+    },
+    {
+      "type": "adherence_event",
+      "user_id": "user-1",
+      "med": "Atorvastatin",
+      "dose": "10mg",
+      "timestamp": 1764390069.760704,
+      "user_reply": "Yes, I took it.",
+      "recorded_at": 1764390069.760704
+    },
+    {
+      "type": "adherence_event",
+      "user_id": "user-1",
+      "med": "Metformin",
+      "dose": "500mg",
+      "timestamp": 1764390070.1034515,
+      "user_reply": "Yes, I took it.",
+      "recorded_at": 1764390070.1034515
+    },
+    {
+      "type": "adherence_event",
+      "user_id": "user-1",
+      "med": "Atorvastatin",
+      "dose": "10mg",
+      "timestamp": 1764390070.4827878,
+      "user_reply": "Yes, I took it.",
+      "recorded_at": 1764390070.4827878
+    },
+    {
+      "type": "adherence_event",
+      "user_id": "user-1",
+      "med": "Metformin",
+      "dose": "500mg",
+      "timestamp": 1764390070.8412411,
+      "user_reply": "Yes, I took it.",
+      "recorded_at": 1764390070.8412411
+    },
+    {
+      "type": "adherence_event",
+      "user_id": "user-1",
+      "med": "Atorvastatin",
+      "dose": "10mg",
+      "timestamp": 1764390071.2009013,
+      "user_reply": "Yes, I took it.",
+      "recorded_at": 1764390071.2009013
+    },
+    {
+      "type": "adherence_event",
+      "user_id": "user-1",
+      "med": "Metformin",
+      "dose": "500mg",
+      "timestamp": 1764390071.535073,
+      "user_reply": "Yes, I took it.",
+      "recorded_at": 1764390071.535073
+    },
+    {
+      "type": "adherence_event",
+      "user_id": "user-1",
+      "med": "Atorvastatin",
+      "dose": "10mg",
+      "timestamp": 1764390071.7400343,
+      "user_reply": "Yes, I took it.",
+      "recorded_at": 1764390071.7400343
+    },
+    {
+      "type": "adherence_event",
+      "user_id": "user-1",
+      "med": "Metformin",
+      "dose": "500mg",
+      "timestamp": 1764390072.105672,
+      "user_reply": "Yes, I took it.",
+      "recorded_at": 1764390072.105672
+    },
+    {
+      "type": "doctor_advice",
+      "user_id": "user-1",
+      "doctor_id": "dr-1",
+      "advice_text": "Recommend follow-up with cardiology for lipid management. Consider lipid panel and liver enzymes.",
+      "related_specialties": [
+        "Cardiology",
+        "Clinical Pathology"
+      ],
+      "timestamp": 1764390072.1152062,
+      "recorded_at": 1764390072.1152062
+    },
+    {
+      "type": "uploaded_doc_summary",
+      "user_id": "user-1",
+      "keywords": [
+        "metformin 500mg twice",
+        "diagnosis type diabetes",
+        "lipids prescription metformin",
+        "type diabetes mellitus",
+        "mellitus elevated lipids",
+        "pressure lipid profile",
+        "lipid profile and",
+        "diabetes mellitus elevated",
+        "evaluation blood",
+        "blood",
+        "daily atorvastatin 10mg",
+        "lipids prescription",
+        "elevated lipids",
+        "evaluation blood pressure",
+        "elevated lipids prescription",
+        "lipid",
+        "diabetes",
+        "daily atorvastatin",
+        "lipid profile",
+        "lipids"
+      ],
+      "suggested_specialties": [
+        "Endocrinology",
+        "Internal Medicine",
+        "Cardiology"
+      ],
+      "raw_excerpt": "Patient Name: John Doe\nAge: 52\nDate: 2025-11-01\nDiagnosis: Type 2 Diabetes Mellitus, Elevated Lipids\nPrescription:\n1. Metformin 500mg \u2013 twice daily\n2. Atorvastatin 10mg \u2013 once daily (night)\nNotes: Patient reports mild chest discomfort during exertion. Recommend evaluation of blood pressure,\nlipid profile, and HbA1c. Consider referral to Cardiology if symptoms persist.\nSignature: Dr. A Kumar\n",
+      "recorded_at": 1764390860.2057502
+    },
+    {
+      "type": "adherence_event",
+      "user_id": "user-1",
+      "med": "Atorvastatin",
+      "dose": "10mg",
+      "timestamp": 1764390873.1326652,
+      "user_reply": "Yes, I took it.",
+      "recorded_at": 1764390873.1326652
+    },
+    {
+      "type": "adherence_event",
+      "user_id": "user-1",
+      "med": "Metformin",
+      "dose": "500mg",
+      "timestamp": 1764390887.1396027,
+      "user_reply": "Yes, I took it.",
+      "recorded_at": 1764390887.1396027
+    },
+    {
+      "type": "adherence_event",
+      "user_id": "user-1",
+      "med": "Atorvastatin",
+      "dose": "10mg",
+      "timestamp": 1764390899.4428318,
+      "user_reply": "Yes, I took it.",
+      "recorded_at": 1764390899.4428318
+    },
+    {
+      "type": "adherence_event",
+      "user_id": "user-1",
+      "med": "Metformin",
+      "dose": "500mg",
+      "timestamp": 1764390899.6568499,
+      "user_reply": "Yes, I took it.",
+      "recorded_at": 1764390899.6568499
+    },
+    {
+      "type": "adherence_event",
+      "user_id": "user-1",
+      "med": "Atorvastatin",
+      "dose": "10mg",
+      "timestamp": 1764390899.859754,
+      "user_reply": "Yes, I took it.",
+      "recorded_at": 1764390899.859754
+    },
+    {
+      "type": "adherence_event",
+      "user_id": "user-1",
+      "med": "Metformin",
+      "dose": "500mg",
+      "timestamp": 1764390900.3595119,
+      "user_reply": "Yes, I took it.",
+      "recorded_at": 1764390900.3595119
+    },
+    {
+      "type": "adherence_event",
+      "user_id": "user-1",
+      "med": "Atorvastatin",
+      "dose": "10mg",
+      "timestamp": 1764390900.7123344,
+      "user_reply": "Yes, I took it.",
+      "recorded_at": 1764390900.7123344
+    },
+    {
+      "type": "adherence_event",
+      "user_id": "user-1",
+      "med": "Metformin",
+      "dose": "500mg",
+      "timestamp": 1764390901.113487,
+      "user_reply": "Yes, I took it.",
+      "recorded_at": 1764390901.113487
+    },
+    {
+      "type": "adherence_event",
+      "user_id": "user-1",
+      "med": "Atorvastatin",
+      "dose": "10mg",
+      "timestamp": 1764390901.4619958,
+      "user_reply": "Yes, I took it.",
+      "recorded_at": 1764390901.4619958
+    },
+    {
+      "type": "adherence_event",
+      "user_id": "user-1",
+      "med": "Metformin",
+      "dose": "500mg",
+      "timestamp": 1764390901.6547022,
+      "user_reply": "Yes, I took it.",
+      "recorded_at": 1764390901.6547022
+    },
+    {
+      "type": "adherence_event",
+      "user_id": "user-1",
+      "med": "Atorvastatin",
+      "dose": "10mg",
+      "timestamp": 1764390902.058718,
+      "user_reply": "Yes, I took it.",
+      "recorded_at": 1764390902.058718
+    },
+    {
+      "type": "adherence_event",
+      "user_id": "user-1",
+      "med": "Metformin",
+      "dose": "500mg",
+      "timestamp": 1764390902.5433118,
+      "user_reply": "Yes, I took it.",
+      "recorded_at": 1764390902.5433118
+    },
+    {
+      "type": "adherence_event",
+      "user_id": "user-1",
+      "med": "Atorvastatin",
+      "dose": "10mg",
+      "timestamp": 1764390902.791054,
+      "user_reply": "Yes, I took it.",
+      "recorded_at": 1764390902.791054
+    },
+    {
+      "type": "adherence_event",
+      "user_id": "user-1",
+      "med": "Metformin",
+      "dose": "500mg",
+      "timestamp": 1764390903.070578,
+      "user_reply": "Yes, I took it.",
+      "recorded_at": 1764390903.070578
+    },
+    {
+      "type": "adherence_event",
+      "user_id": "user-1",
+      "med": "Atorvastatin",
+      "dose": "10mg",
+      "timestamp": 1764390903.4326043,
+      "user_reply": "Yes, I took it.",
+      "recorded_at": 1764390903.4326043
+    },
+    {
+      "type": "adherence_event",
+      "user_id": "user-1",
+      "med": "Metformin",
+      "dose": "500mg",
+      "timestamp": 1764390903.675306,
+      "user_reply": "Yes, I took it.",
+      "recorded_at": 1764390903.675306
+    },
+    {
+      "type": "adherence_event",
+      "user_id": "user-1",
+      "med": "Atorvastatin",
+      "dose": "10mg",
+      "timestamp": 1764390904.0477622,
+      "user_reply": "Yes, I took it.",
+      "recorded_at": 1764390904.0477622
+    },
+    {
+      "type": "adherence_event",
+      "user_id": "user-1",
+      "med": "Metformin",
+      "dose": "500mg",
+      "timestamp": 1764390904.6178725,
+      "user_reply": "Yes, I took it.",
+      "recorded_at": 1764390904.6178725
+    },
+    {
+      "type": "adherence_event",
+      "user_id": "user-1",
+      "med": "Atorvastatin",
+      "dose": "10mg",
+      "timestamp": 1764390904.8978739,
+      "user_reply": "Yes, I took it.",
+      "recorded_at": 1764390904.8978739
+    },
+    {
+      "type": "adherence_event",
+      "user_id": "user-1",
+      "med": "Metformin",
+      "dose": "500mg",
+      "timestamp": 1764390905.365249,
+      "user_reply": "Yes, I took it.",
+      "recorded_at": 1764390905.365249
+    },
+    {
+      "type": "adherence_event",
+      "user_id": "user-1",
+      "med": "Atorvastatin",
+      "dose": "10mg",
+      "timestamp": 1764390905.6834226,
+      "user_reply": "Yes, I took it.",
+      "recorded_at": 1764390905.6834226
+    },
+    {
+      "type": "adherence_event",
+      "user_id": "user-1",
+      "med": "Metformin",
+      "dose": "500mg",
+      "timestamp": 1764390906.012367,
+      "user_reply": "Yes, I took it.",
+      "recorded_at": 1764390906.012367
+    },
+    {
+      "type": "adherence_event",
+      "user_id": "user-1",
+      "med": "Atorvastatin",
+      "dose": "10mg",
+      "timestamp": 1764390906.3835247,
+      "user_reply": "Yes, I took it.",
+      "recorded_at": 1764390906.3835247
+    },
+    {
+      "type": "adherence_event",
+      "user_id": "user-1",
+      "med": "Metformin",
+      "dose": "500mg",
+      "timestamp": 1764390906.5669043,
+      "user_reply": "Yes, I took it.",
+      "recorded_at": 1764390906.5669043
+    },
+    {
+      "type": "doctor_advice",
+      "user_id": "user-1",
+      "doctor_id": "dr-1",
+      "advice_text": "Recommend follow-up with cardiology for lipid management. Consider lipid panel and liver enzymes.",
+      "related_specialties": [
+        "Cardiology",
+        "Clinical Pathology"
+      ],
+      "timestamp": 1764390906.5689104,
+      "recorded_at": 1764390906.5689104
+    }
+  ],
+  "cli-user": [
+    {
+      "type": "cli_interaction",
+      "user_id": "cli-user",
+      "prompt": "hi",
+      "response": "Hello! How can I help you today?",
+      "recorded_at": 1764391361.5562499
+    },
+    {
+      "type": "cli_interaction",
+      "user_id": "cli-user",
+      "prompt": "remind me to take medicine",
+      "response": "Of course! To give you the best reminder, I need a little more information.\n\n**Please tell me:**\n\n*   **What is the name of the medicine?** (e.g., \"allergy pill,\" \"Lisinopril,\" \"vitamins\")\n*   **What time should you take it?** (e.g., 8:00 AM, with dinner)\n*   **How often?** (e.g., every day, twice a day, only on Mondays and Fridays)\n\nOnce you tell me, I can help you phrase the perfect command for your phone or smart speaker.\n\n---\n\n### **How to Set the Reminder Yourself (Easiest Ways)**\n\nThe most reliable way is to set a recurring reminder on a device you always have with you, like your phone.\n\n#### **Option 1: Use Your Voice Assistant (Fastest Method)**\n\nPick up your phone or speak to your smart speaker and say one of these commands:\n\n*   **For Siri (iPhone/Apple Watch):**\n    *   *\"Hey Siri, remind me to take my medicine every day at 8 AM.\"*\n    *   *\"Hey Siri, create a reminder called 'Take Lisinopril with food' for every day at 9 PM.\"*\n\n*   **For Google Assistant (Android/Google Home):**\n    *   *\"Hey Google, set a reminder to take my vitamins every morning at 7:30.\"*\n    *   *\"Hey Google, remind me to take my allergy pill every day at 10 PM.\"*\n\n*   **For Alexa (Amazon Echo):**\n    *   *\"Alexa, remind me to take my medicine every day at 8:30 AM.\"*\n    *   *\"Alexa, set a recurring reminder for my blood pressure pill for 7 PM every day.\"*\n\n#### **Option 2: Use Your Phone's Calendar or Reminder App**\n\n1.  Open your **Calendar** or **Reminders** app.\n2.  Create a new event or reminder.\n3.  Title it \"Take [Medicine Name]\".\n4.  Set the date and time.\n5.  **Crucially, set it to \"Repeat\" daily** (or on whatever schedule you need).\n6.  Save it.\n\n#### **Option 3: Use a Dedicated Medication App**\n\nIf you take multiple medications or want to track doses and refills, an app is a great choice. Search your app store for \"Medisafe\" or \"MyTherapy.\"\n\n---\n\nSo, just let me know the details, and I'll help you get it set up",
+      "recorded_at": 1764391462.3568122
+    },
+    {
+      "type": "cli_interaction",
+      "user_id": "cli-user",
+      "prompt": "test reminder",
+      "response": "This is your test reminder!\n\nAs an AI, I can't set a time-based notification on your device. However, if you want to test your own device's reminder function, you can say:\n\n*   **\"Hey Siri, remind me in one minute that this is a test.\"**\n*   **\"Hey Google, set a reminder for one minute from now called 'Test'.\"**\n*   **\"Alexa, set a reminder for 'test' in one minute.\"**",
+      "recorded_at": 1764391500.8225183
+    },
+    {
+      "type": "cli_chat",
+      "user_id": "cli-user",
+      "prompt": "explain how metformin works",
+      "response": "Of course. Here is a detailed explanation of how metformin works, broken down from a simple overview to the more scientific details.\n\n### The Simple Answer (The \"What You Need to Know\")\n\nImagine your body has a problem with sugar (glucose) management. In Type 2 diabetes, two main things go wrong:\n\n1.  **Your liver makes too much sugar** and releases it into your blood, even when you don't need it.\n2.  **Your body's cells become \"resistant\" to insulin**, the hormone that's supposed to help them absorb sugar from the blood for energy.\n\nMetformin tackles this problem in three primary ways:\n\n1.  **It tells the liver to calm down.** It significantly reduces the amount of glucose your liver produces and releases into the bloodstream. This is its most important job.\n2.  **It makes your muscles more sensitive to insulin.** It helps your muscle cells listen to insulin's signal better, allowing them to pull more sugar out of the blood for energy.\n3.  **It slightly reduces the amount of sugar you absorb** from the food you eat in your gut.\n\nCrucially, metformin **does not** force your pancreas to produce more insulin. This is why, when used alone, it has a very low risk of causing dangerously low blood sugar (hypoglycemia). It's considered an \"insulin sensitizer,\" not an insulin producer.\n\n---\n\n### The \"Leaky Faucet and Clogged Drain\" Analogy\n\nThink of your bloodstream as a sink.\n\n*   **The Problem (Type 2 Diabetes):** The sink is overflowing with water (high blood sugar).\n*   **The Leaky Faucet:** Your liver is like a faucet that's stuck on, constantly dripping extra water (glucose) into the sink, even when it's already full.\n*   **The Clogged Drain:** Your muscle cells are like a partially clogged drain. They can't remove water (glucose) from the sink efficiently.\n\n**How Metformin Fixes It:**\n\n*   **It tightens the leaky faucet.** This is its main job. It dramatically slows the drip of extra glucose from the liver.\n*   **It helps clear the drain.** It makes your muscle cells better at absorbing glucose from the blood, helping the sink drain properly.\n*   **It slightly turns down the water pressure from the tap.** It slows the absorption of sugar from your food, so you don't get a sudden gush of water into the sink after a meal.\n\n---\n\n### The Detailed Scientific Explanation\n\nFor those interested in the science, metformin's actions are primarily mediated through the activation of an enzyme called **AMP-activated protein kinase (AMPK)**. Think of AMPK as a master energy sensor inside your cells.\n\nHere\u2019s a breakdown of the mechanisms:\n\n#### 1. Primary Action: Inhibition of Hepatic Gluconeogenesis (In the Liver)\n\nThis is metformin's most significant effect.\n\n*   **The Problem:** In people with insulin resistance, the liver's \"off switch\" for producing glucose is broken. It continuously makes new glucose (a process called **gluconeogenesis**) and releases it into the blood, contributing to high fasting blood sugar levels.\n*   **How Metformin Works:** Metformin accumulates in liver cells and inhibits a key part of the cellular energy machinery (mitochondrial respiratory-chain complex 1). This leads to a decrease in cellular energy levels (a lower ATP-to-AMP ratio).\n*   **The AMPK Connection:** This low-energy state activates the **AMPK** enzyme. Activated AMPK then sends signals that shut down energy-consuming processes, including the creation of new glucose (gluconeogenesis). It essentially restores the liver's \"off switch.\"\n\n#### 2. Secondary Action: Increased Insulin Sensitivity (In Muscles and Fat)\n\n*   **The Problem:** Muscle and fat cells don't respond well to insulin. Insulin is supposed to act like a key that unlocks the cell, allowing glucose to enter. In insulin resistance, the lock is rusty.\n*   **How Metformin Works:** By activating AMPK in muscle cells, metformin helps increase the uptake of glucose. It promotes the movement of glucose transporters (called GLUT4) to the cell surface. More transporters on the surface mean the cell can pull in more glucose from the blood, even with the same amount of insulin. This improves the body's overall sensitivity to insulin.\n\n#### 3. Tertiary Action: Decreased Intestinal Glucose Absorption (In the Gut)\n\n*   **The Problem:** After a carbohydrate-rich meal, glucose is rapidly absorbed from the intestines into the bloodstream, causing a sharp spike in blood sugar.\n*   **How Metformin Works:** Metformin can reduce the rate at which glucose is absorbed from the gut. This leads to a slower, more gradual rise in blood sugar after meals, which is easier for the body to manage. This effect is generally considered less significant than its effects on the liver and muscles. Recent research also suggests metformin beneficially alters the gut microbiome, which may contribute to its overall effects.\n\n### Why is Metformin a First-Line Treatment?\n\nMetformin is typically the first medication prescribed for Type 2 diabetes because of its excellent profile:\n\n*   **High Efficacy:** It is very effective at lowering A1c (a measure of long-term blood sugar control).\n*   **Low Hypoglycemia Risk:** As it doesn't stimulate insulin production, it rarely causes low blood sugar.\n*   **Weight Neutral/Modest Weight Loss:** Unlike some other diabetes drugs, it does not cause weight gain and may even lead to slight weight loss.\n*   **Proven Safety:** It has been used for decades and has a well-established safety record.\n*   **Potential Cardiovascular Benefits:** Studies have shown it may reduce the risk of cardiovascular events like heart attacks and strokes.\n*   **Low Cost:** It is available as a generic and is very inexpensive.",
+      "ts": 1764391837.8192108,
+      "recorded_at": 1764391837.8192108
+    },
+    {
+      "type": "adherence_event",
+      "user_id": "cli-user",
+      "med": "Metformin 500mg",
+      "dose": "",
+      "timestamp": 1764391920.9207757,
+      "user_reply": "Yes, I took it.",
+      "recorded_at": 1764391920.9207757
+    },
+    {
+      "type": "adherence_event",
+      "user_id": "cli-user",
+      "med": "Metformin 500mg",
+      "dose": "",
+      "timestamp": 1764392929.2126062,
+      "user_reply": "Yes, I took it.",
+      "recorded_at": 1764392929.2126062
+    },
+    {
+      "type": "uploaded_doc_summary",
+      "user_id": "cli-user",
+      "keywords": [
+        "daily atorvastatin 10mg",
+        "metformin 500mg twice",
+        "metformin",
+        "atorvastatin 10mg",
+        "atorvastatin 10mg once",
+        "twice daily atorvastatin",
+        "prescription metformin",
+        "daily atorvastatin",
+        "atorvastatin",
+        "simulated prescription metformin",
+        "prescription metformin 500mg",
+        "metformin 500mg"
+      ],
+      "suggested_specialties": [
+        "which point to prescriptions for **Metformin** and **Atorvastatin**",
+        "ranked from most to least common for managing these conditions.\n\nThe medications indicate the patient is likely being treated for **Type 2 Diabetes** (or a related condition like pre-diabetes) and **High Cholesterol** (hyperlipidemia)",
+        "Of course. Based on the keywords provided",
+        "here are the most likely medical specialties a patient should visit",
+        "which are often managed together as they are key risk factors for cardiovascular disease.\n\n---\n\n### Primary Suggestions:\n\n1.  **Primary Care Physician (PCP) / General Practitioner / Family Medicine**\n    *   **Why:** This is the most common and central doctor for managing these conditions. PCPs routinely diagnose and manage chronic diseases like Type 2 Diabetes and high cholesterol. They are typically the first to prescribe these medications"
+      ],
+      "raw_excerpt": "Simulated prescription: Metformin 500mg twice daily, Atorvastatin 10mg once nightly.",
+      "recorded_at": 1764393036.6779053
+    },
+    {
+      "type": "uploaded_doc_summary",
+      "user_id": "cli-user",
+      "keywords": [
+        "daily atorvastatin 10mg",
+        "metformin 500mg twice",
+        "metformin",
+        "atorvastatin 10mg",
+        "atorvastatin 10mg once",
+        "twice daily atorvastatin",
+        "prescription metformin",
+        "daily atorvastatin",
+        "atorvastatin",
+        "simulated prescription metformin",
+        "prescription metformin 500mg",
+        "metformin 500mg"
+      ],
+      "suggested_specialties": [
+        "which strongly indicate prescriptions for managing Type 2 Diabetes and high cholesterol",
+        "day-to-day management.\n\n2.  **Endocrinologist**\n    *   **Reasoning:** Metformin is a first-line treatment for Type 2 Diabetes. Endocrinologists are specialists in the endocrine system",
+        "Of course. Based on the keywords provided",
+        "here are the likely medical specialties a patient should visit",
+        "ordered from most to least common for these conditions.\n\n### Primary / Most Likely Specialties\n\n1.  **Primary Care Physician (PCP) / General Practitioner (GP)**\n    *   **Reasoning:** This is the most likely specialist. PCPs routinely diagnose and manage chronic conditions like Type 2 Diabetes and high cholesterol (hyperlipidemia). They are typically the first to prescribe medications like metformin and atorvastatin and handle the long-term"
+      ],
+      "raw_excerpt": "Simulated prescription: Metformin 500mg twice daily, Atorvastatin 10mg once nightly.",
+      "recorded_at": 1764393075.7756956
+    },
+    {
+      "type": "cli_chat",
+      "user_id": "cli-user",
+      "prompt": "tell me a long story about a patient taking 10 medicines and traveling through mountains...",
+      "response": "The first thing Elara packed was not her worn leather hiking boots or her down-filled sleeping bag. It was the pillbox. It was a large, utilitarian thing of blue plastic, with fourteen compartments for each day of the week, AM and PM. Into these little coffins, she carefully sorted her life.\n\nTen medicines. It was a number that felt both absurd and crushingly real.\n\nThere was the big, chalky immunosuppressant, the anchor of her treatment, which kept her own body from tearing itself apart. There were two blood pressure pills, a delicate balancing act to keep her veins from constricting. A slick, yellow gelcap for inflammation. A tiny white tablet to protect her stomach from the others. A nerve-pain medication that made her feel like she was wrapped in cotton wool. A diuretic to keep fluid from pooling in her lungs. An antidepressant, a quiet admission that the physical battle had long ago breached her mental walls. And finally, two potent painkillers, one for the steady, grinding ache, and one for the sharp, sudden flares. Ten soldiers in a war waged within the borders of her own skin.\n\nHer doctor had been clear. \"Elara, a multi-day trek in the Serpentine Range? It's... inadvisable. The altitude, the exertion, the distance from medical care...\"\n\nElara had just nodded, the pillbox a heavy, solid weight in her lap. \"I know,\" she'd said. \"That's why I have to go.\"\n\nBefore the diagnosis, the mountains had been her sanctuary. She was a cartographer of ridges and valleys, a connoisseur of sunrises over granite peaks. Her body, strong and reliable, had been a tool to carry her to beauty. Now, it was a traitorous landscape of its own, full of treacherous ravines and sudden storms. The ten medicines were her reluctant guides through this internal wilderness.\n\nThe first day on the trail was a brutal reckoning. The air, thin and sharp as broken glass, felt like a personal affront to her compromised lungs. Every upward step sent a jolt through her inflamed joints. The weight of her pack, which she had meticulously lightened, felt like a physical manifestation of her illness.\n\nAt 7:00 AM, her watch alarm chirped. She stopped, leaning heavily on her trekking poles, and pulled out the pillbox. She clicked open the \"MON AM\" compartment. Four pills. She swallowed them with a gulp of metallic-tasting water from her canteen, the act a familiar, joyless ritual. It was a pact she made with her body each morning: *I will give you this chemical cocktail, and in return, you will carry me a little further.*\n\nThe mountains around her were magnificent and indifferent. They were vast, ancient things of stone and ice, their peaks wreathed in cloud. They did not care about her cellular-level betrayals or her carefully calibrated pharmacy. In their presence, her suffering felt both immense and infinitesimally small.\n\nBy the third day, a rhythm began to form, dictated not by the sun and moon, but by the alarms on her watch. 7:00 AM. 12:00 PM. 7:00 PM. 10:00 PM. Each alarm was a pause, a moment of surrender. She would find a flat rock, unclip her pack, and perform the ritual. The click of the plastic lid, the dry swallow, the chase of water. She began to see the landscape in segments, measured in the hours between doses. *From the blood pressure pill to the anti-inflammatory, I will reach that stand of ancient bristlecone pines. From the evening painkiller to the sleep aid, I will make camp by the alpine lake.*\n\nOne afternoon, a storm rolled in with terrifying speed. The sky turned the color of a bruise, and rain, cold as liquid ice, lashed down. Elara huddled under a rocky overhang, her body shivering uncontrollably. A flare of pain, sharp and electric, shot up her spine. This was the moment her doctor had warned of. Alone, cold, and in pain.\n\nShe fumbled in her pack for the \"as needed\" painkiller, her fingers numb and clumsy. As she swallowed the small, potent tablet, she looked out at the storm. The wind howled, tearing at the hardy pines that clung to the cliffs. They bent, they swayed, but they did not break. They had adapted to this harshness. They had found a way to endure.\n\nA thought, clear and sharp as the cold air, cut through her pain-fogged mind. She had been treating this journey as a fight, a way to conquer the mountain and, by extension, her illness. She was trying to be the strong, healthy woman who had hiked these trails years ago. But that woman was gone.\n\nShe was this woman now. A woman who needed ten medicines to get through the day. A woman whose body was a constant negotiation. And that was okay. The pills were not a sign of her failure; they were her tools for endurance. They were her version of the pine tree's deep roots and flexible branches.\n\nThe storm passed. The sun broke through, setting the wet granite ablaze with light. The world smelled clean and new. Elara took a deep, shuddering breath. The pain was receding, dulled by the medication to a manageable hum. She stood up, her joints still aching, and shouldered her pack.\n\nThe rest of the journey was different. She stopped fighting the mountain. She started working with it, and with the body she had. She took more breaks. She drank more water. She didn't curse her watch alarm but greeted it with a quiet nod of thanks. The 7:00 AM dose was the fuel that got her up the scree field. The 12:00 PM dose was the grace that allowed her to eat her lunch and watch a marmot sun itself on a rock. The 7:00 PM dose was the peace that let her watch the alpenglow paint the peaks in hues of rose and gold.\n\nHer ten medicines were no longer a burden. They were a bridge. A fragile, chemical, meticulously constructed bridge that allowed her, this compromised and weary version of herself, to cross over into this place of wild, untamed beauty.\n\nOn the sixth day, she reached her destination: the Lake of Whispering Glass. It was a perfect bowl of sapphire water nestled high in a glacial cirque, its surface so still it mirrored the jagged peaks and the vast, empty sky with perfect clarity. She had been here once before, a decade ago, and had swum in its bracingly cold water, her body a powerhouse of effortless strength.\n\nShe wouldn't be swimming today.\n\nInstead, she sat on the shore, unlaced her boots, and pulled out the blue plastic pillbox. It was 7:00 PM. Time for the evening ritual. She clicked open the compartment and tipped the pills into her palm\u2014a constellation of chalky whites, glossy gels, and muted pastels. She looked from the pills in her hand to the reflection of the colossal, eternal mountains in the lake.\n\nBoth were her landscape now. The internal and the external. The fragile and the strong. The chemical and the natural.\n\nShe swallowed the pills, not with resentment, but with a kind of solemn gratitude. They were part of her story. They were the price of admission. And for this view, for this moment of quiet, aching, profound peace, she was willing to pay it. The mountain hadn't cured her, but it had healed her. It had taught her that survival wasn't about being unbreakable, but about learning how to carry your own fragile, necessary pieces with you, one step, one breath, one pill at a time.",
+      "ts": 1764393140.8892915,
+      "recorded_at": 1764393140.8892915
+    },
+    {
+      "type": "adherence_event",
+      "user_id": "cli-user",
+      "med": "nil",
+      "dose": "",
+      "timestamp": 1764393205.3857694,
+      "user_reply": "Yes, I took it.",
+      "recorded_at": 1764393205.3857694
+    },
+    {
+      "type": "cli_chat",
+      "user_id": "cli-user",
+      "prompt": "show my memory",
+      "response": "Of course. My \"memory\" is the context of our current conversation. I don't have long-term memories of past chats, but I can recall everything we've discussed in this session.\n\nSo far in this conversation, you have said:\n\n*   \"show my memory\"\n\nThat's it! This is our entire history for this session. If we keep talking, I'll remember what we discuss.",
+      "ts": 1764393230.3054776,
+      "recorded_at": 1764393230.3054776
+    },
+    {
+      "type": "adherence_event",
+      "user_id": "cli-user",
+      "med": "Metformin 500mg",
+      "dose": "",
+      "time": "08:00",
+      "frequency": "daily",
+      "timestamp": 1764395232.602464,
+      "user_reply": "Yes, I took it.",
+      "model_summary": "It's time to take your Metformin 500mg at 08:00.\nHave you taken it?",
+      "recorded_at": 1764395232.602464
+    },
+    {
+      "type": "uploaded_doc_summary",
+      "user_id": "cli-user",
+      "keywords": [
+        "twice daily atorvastatin",
+        "daily atorvastatin 10mg",
+        "prescription metformin 500mg",
+        "atorvastatin",
+        "metformin",
+        "atorvastatin 10mg once",
+        "prescription metformin",
+        "metformin 500mg twice",
+        "daily atorvastatin",
+        "atorvastatin 10mg",
+        "simulated prescription metformin",
+        "metformin 500mg"
+      ],
+      "suggested_specialties": [
+        "Primary Care",
+        "Family Medicine"
+      ],
+      "raw_excerpt": "Simulated prescription: Metformin 500mg twice daily, Atorvastatin 10mg once nightly.",
+      "model_summary": "",
+      "recorded_at": 1764395337.5940566
+    },
+    {
+      "type": "cli_chat",
+      "user_id": "cli-user",
+      "prompt": "primary care",
+      "response": "Of course. Here is a comprehensive overview of primary care, covering what it is, who provides it, what services are included, and why it's so important.\n\nWhat is Primary Care?\n\nPrimary care is the foundation of your healthcare. It is the day-to-day healthcare given by a health professional who acts as the first point of contact and principal point of continuing care for patients.\n\nThink of your primary care provider (PCP) as the \"quarterback\" of your health team. They provide comprehensive, continuous, and patient-centered care, focusing not just on treating illness but on promoting overall health and wellness over the long term.\n\nThe core principles of primary care are:\nFirst Contact:** Your PCP is the first person you should see for most health concerns.\nContinuity:** You build a long-term relationship with your PCP, who gets to know you, your medical history, and your lifestyle.\nComprehensiveness:** They manage a wide range of health issues, from preventive care to chronic disease management.\nCoordination:** They coordinate your care, referring you to specialists when needed and ensuring all aspects of your health are managed cohesively.\n\nWho are Primary Care Providers (PCPs)?\n\nSeveral types of health professionals can be your PCP:\n\nFamily Medicine Doctors:** Trained to care for people of all ages, from newborns to the elderly. They can treat the whole family, which provides a deep understanding of family health dynamics.\nInternal Medicine Doctors (Internists):** Specialize in caring for adults. They are experts in diagnosing and managing complex, chronic illnesses that affect adults, such as heart disease and diabetes.\nPediatricians:** Specialize in the care of infants, children, and adolescents.\nGeriatricians:** Specialize in the care of older adults, focusing on health issues related to aging.\nNurse Practitioners (NPs) and Physician Assistants (PAs):** Advanced practice providers who are trained and licensed to provide many of the same services as doctors. They often work in collaboration with a physician and can serve as a patient's main PCP.\nObstetrician-Gynecologists (OB/GYNs):** While specialists, many women use their OB/GYN as their primary care provider for general health needs in addition to reproductive health.\n\nWhat Services Does Primary Care Include?\n\nPrimary care covers a broad spectrum of health services:\n\nPreventive Care:** This is a cornerstone of primary care.\nAnnual check-ups and physicals\nImmunizations (flu shots, tetanus, etc.)\nCancer screenings (mammograms, colonoscopies, Pap smears)\nHealth counseling on diet, exercise, and smoking cessation.\n\nDiagnosis and Treatment of Acute Illnesses:**\nCommon illnesses like colds, the flu, sinus infections, and UTIs.\nMinor injuries like sprains, strains, and small cuts.\n\nManagement of Chronic Conditions:**\nOngoing care for conditions like high blood pressure, diabetes, asthma, high cholesterol, and depression.\nMedication management and adjustments.\n\nCoordination of Care:**\nReferring you to specialists (like a cardiologist or dermatologist) when you need more specialized care.\nCommunicating with your specialists to ensure your care plan is integrated.\nManaging your care if you are hospitalized.\n\nMental and Behavioral Health:**\nScreening for depression, anxiety, and substance abuse.\nProviding initial treatment and referring to mental health professionals.\n\nWhy is Primary Care So Important?\n\nHaving a dedicated PCP is one of the most important things you can do for your health.\n\n1. **Better Health Outcomes:** Studies consistently show that people with a primary care provider have better health outcomes, including lower rates of mortality and hospitalization.\n2. **Continuity of Care:** Your PCP knows your health history. This relationship allows them to notice changes over time, provide more personalized advice, and catch potential problems early.\n3. **Lower Healthcare Costs:** By focusing on prevention and managing chronic diseases effectively, primary care helps you avoid expensive emergency room visits and hospital stays.\n4. **A Single Point of Contact:** It simplifies healthcare. When you have a health concern, you know exactly who to call first, saving you time and stress.\n\nPrimary Care vs. Urgent Care vs. Emergency Room\n\nIt's important to know where to go for the right level of care.\n\n| **Primary Care Provider (PCP)** | **Urgent Care Center** | **Emergency Room (ER)** |\n| :--- | :--- | :--- |\n| **Best for:** Long-term health, prevention, chronic conditions, non-emergency issues. | **Best for:** Issues that need prompt attention but are not life-threatening. | **Best for:** Severe or life-threatening medical emergencies. |\n| **Examples:** Annual physicals, managing diabetes, medication refills, a persistent cough. | **Examples:** Sprains, minor cuts needing stitches, bad sore throat, UTI, fever. | **Examples:** Chest pain, difficulty breathing, severe bleeding, stroke symptoms, major injuries. |\n| **Key Feature:** Long-term relationship. | **Key Feature:** Walk-in convenience for immediate, non-critical issues. | **Key Feature:** 24/7 care for life-threatening conditions. |",
+      "ts": 1764395385.4346204,
+      "recorded_at": 1764395385.4346204
+    },
+    {
+      "type": "uploaded_doc_summary",
+      "user_id": "cli-user",
+      "keywords": [
+        "prescription metformin",
+        "metformin 500mg twice",
+        "atorvastatin 10mg once",
+        "metformin 500mg",
+        "atorvastatin",
+        "daily atorvastatin",
+        "simulated prescription metformin",
+        "atorvastatin 10mg",
+        "metformin",
+        "prescription metformin 500mg",
+        "twice daily atorvastatin",
+        "daily atorvastatin 10mg"
+      ],
+      "suggested_specialties": [
+        "Primary Care"
+      ],
+      "raw_excerpt": "Simulated prescription: Metformin 500mg twice daily, Atorvastatin 10mg once nightly.",
+      "model_summary": "",
+      "recorded_at": 1764396112.5936007
+    },
+    {
+      "type": "doctor_advice",
+      "user_id": "cli-user",
+      "doctor_id": "dr-1",
+      "advice_text": "Increase water intake and monitor BP daily.",
+      "related_specialties": [
+        "Cardiology"
+      ],
+      "timestamp": 1764396247.8564143,
+      "recorded_at": 1764396247.8564143
+    },
+    {
+      "type": "cli_chat",
+      "user_id": "cli-user",
+      "prompt": "Should I check my BP today?",
+      "response": "That's a great question to ask about your health. As an AI, I can't give you medical advice, but I can provide you with general information to help you decide.\n\nHere\u2019s a breakdown of factors to consider:\n\nYou should probably check your BP today if:\n\nYou have been diagnosed with high blood pressure (hypertension).** Regular monitoring is key to managing the condition and seeing if your treatment plan is working. Your doctor likely gave you instructions on how often to check it.\nYou recently started or changed blood pressure medication.** Checking your BP helps you and your doctor see how well the new medication or dosage is working.\nYou are pregnant.** Monitoring for conditions like preeclampsia is very important during pregnancy.\nYou are feeling unwell with symptoms** that can be related to high or low blood pressure, such as:\nSevere headaches\nDizziness or lightheadedness\nShortness of breath\nNosebleeds\nVision changes\nYou have risk factors for high blood pressure,** such as a family history, being overweight, or having diabetes, and you want to establish a baseline.\nYour doctor specifically asked you to monitor it.**\n\nYou might not need to check your BP today if:\n\nYou are generally healthy with no known blood pressure issues.\nYou recently had it checked by a doctor and it was normal.\nChecking your blood pressure causes you significant anxiety (sometimes called \"white coat hypertension,\" but it can happen at home too). Obsessively checking can sometimes make readings higher.\n\nIf you decide to check it, here are some tips for an accurate reading:\n\n1. **Relax:** Sit quietly for 5 minutes before you start.\n2. **Avoid Stimulants:** Don't smoke, drink caffeine, or exercise for at least 30 minutes beforehand.\n3. **Sit Correctly:** Sit in a chair with your back straight and supported. Keep your feet flat on the floor and your legs uncrossed.\n4. **Position Your Arm:** Rest your arm on a flat surface (like a table) with your upper arm at heart level.\n5. **Use a Proper Cuff:** Make sure the cuff fits your arm correctly. It should be snug but not too tight.\n6. **Take Two Readings:** Take a reading, wait a minute, and then take a second one to ensure accuracy.\n\nThe Bottom Line\n\nIf you have a diagnosed condition or were told to monitor it,** following your doctor's schedule is the best course of action.\nIf you are feeling unwell,** checking it can provide useful information for a healthcare provider.\nIf you're just curious,** it's generally a safe and good thing to do for your health awareness.\n\nMost importantly: If you get a very high reading (e.g., systolic over 180 or diastolic over 120) or are experiencing severe symptoms, please contact your doctor or seek immediate medical attention.**\n\nDisclaimer:** I am an AI assistant and not a medical professional. This information is for educational purposes only. Please consult with a healthcare provider for any medical advice, diagnosis, or treatment.",
+      "ts": 1764401734.0430982,
+      "recorded_at": 1764401734.0430982
+    },
+    {
+      "type": "doctor_advice",
+      "user_id": "cli-user",
+      "doctor_id": "dr-1",
+      "advice_text": "Increase water intake and monitor BP daily.",
+      "related_specialties": [
+        "Cardiology"
+      ],
+      "timestamp": 1764401798.6813064,
+      "recorded_at": 1764401798.6813064
+    },
+    {
+      "type": "cli_chat",
+      "user_id": "cli-user",
+      "prompt": "Should I check my BP today?",
+      "response": "That's a great question to ask for your health. As an AI, I can't give you medical advice, but I can provide you with general information to help you decide based on common medical guidelines.\n\nThe answer really depends on your personal health situation. Here\u2019s a breakdown to help you think it through:\n\nYou should definitely consider checking your BP today if:\n\nYour doctor has told you to.** If you have a diagnosis of hypertension (high blood pressure) or are at risk, your doctor may have asked you to monitor it regularly (e.g., daily, weekly). Follow their specific instructions.\nYou are starting a new blood pressure medication or have recently changed your dose.** Checking your BP helps you and your doctor see if the new treatment is working.\nYou are feeling unwell with specific symptoms.** If you are experiencing symptoms like a severe headache, dizziness, blurred vision, chest pain, or unusual shortness of breath, checking your blood pressure can be a useful piece of information for a medical professional. **If these symptoms are severe, you should seek immediate medical attention.**\nYou are trying to establish a baseline.** If you've never tracked your BP before, checking it periodically can help you and your doctor understand what's normal for you.\n\nIt might be less necessary (or you should wait a bit) if:\n\nYou are feeling stressed, anxious, or angry right now.** Your blood pressure will be temporarily high. Checking it in this state will not give you an accurate picture of your resting BP and might cause more anxiety. Wait until you feel calm.\nYou just finished exercising, drinking caffeine, or smoking.** These activities temporarily raise your blood pressure. Wait at least 30 minutes after any of these before taking a measurement.\nYou have no known health issues and are feeling perfectly fine.** While it's never a bad idea to be aware of your numbers, there may not be an urgent need to check it *today* unless it's part of a routine you've set for yourself.\n\nIf You Decide to Check It, Here\u2019s How to Do It Right:\n\nFor an accurate reading, follow these steps:\n\n1. **Relax:** Sit quietly in a comfortable chair for 5 minutes before you start.\n2. **Positioning is Key:** Keep your feet flat on the floor (don't cross your legs) and your back supported. Rest your arm on a flat surface (like a table) with your upper arm at heart level.\n3. **Use the Right Cuff:** Make sure the cuff is the correct size for your arm and is placed on bare skin.\n4. **Be Still and Quiet:** Don't talk or move around while the machine is working.\n5. **Take Multiple Readings:** For the best accuracy, take 2-3 readings, one minute apart, and average the results.\n\nWhat Do the Numbers Mean? (General Guidelines from the American Heart Association)\n\nNormal:** Less than 120/80 mm Hg\nElevated:** 120-129 systolic **and** less than 80 diastolic\nHypertension Stage 1:** 130-139 systolic **or** 80-89 diastolic\nHypertension Stage 2:** 140/90 mm Hg or higher\nHypertensive Crisis:** Higher than 180/120 mm Hg. **If you get this reading, wait five minutes and test again. If it's still this high, seek immediate emergency medical care.**\n\nFinal Thought:** Knowing your blood pressure is a powerful tool for managing your health. If you're ever in doubt, checking it (when you're calm and rested) is a quick and easy thing to do.\n\nDisclaimer:** This information is for educational purposes only and is not a substitute for professional medical advice. Always consult with your healthcare provider for any health concerns or before making any decisions related to your health or treatment.",
+      "ts": 1764401830.836687,
+      "recorded_at": 1764401830.836687
+    },
+    {
+      "type": "agent_response",
+      "user_id": "cli-user",
+      "prompt": "hi",
+      "response": "MODEL_TRUNCATED: Increase max_tokens. Partial candidate: {\"content\": {\"role\": \"model\"}, \"finishReason\": \"MAX_TOKENS\", \"index\": 0}",
+      "ts": 1764405964.6047673,
+      "recorded_at": 1764405964.6047673
+    },
+    {
+      "type": "cli_chat",
+      "user_id": "cli-user",
+      "prompt": "hi",
+      "response": "MODEL_TRUNCATED: Increase max_tokens. Partial candidate: {\"content\": {\"role\": \"model\"}, \"finishReason\": \"MAX_TOKENS\", \"index\": 0}",
+      "ts": 1764405964.6199949,
+      "recorded_at": 1764405964.6199949
+    },
+    {
+      "type": "agent_response",
+      "user_id": "cli-user",
+      "prompt": "hi",
+      "response": "Hello! I see you're taking Metformin and Atorvastatin, and your doctor recently advised you to increase your water intake and monitor your blood pressure.\n\nHow can I help you today?",
+      "ts": 1764405991.6415188,
+      "recorded_at": 1764405991.6415188
+    },
+    {
+      "type": "cli_chat",
+      "user_id": "cli-user",
+      "prompt": "hi",
+      "response": "Hello! I see you're taking Metformin and Atorvastatin, and your doctor recently advised you to increase your water intake and monitor your blood pressure.\n\nHow can I help you today?",
+      "ts": 1764405991.648279,
+      "recorded_at": 1764405991.648279
+    },
+    {
+      "type": "cli_chat",
+      "user_id": "cli-user",
+      "prompt": "Should I check my BP today?",
+      "response": "Your doctor previously advised monitoring blood pressure. If you are calm and rested right now, checking it today is reasonable. I can help you log the reading if you want.",
+      "ts": 1764406005.2965763,
+      "recorded_at": 1764406005.2965763
+    },
+    {
+      "type": "cli_chat",
+      "user_id": "cli-user",
+      "prompt": "Did I take my Metformin today?",
+      "response": "I see a recorded adherence entry for Metformin 500mg. The record shows you confirmed taking it earlier. Would you like to log another dose now?",
+      "ts": 1764406045.506915,
+      "recorded_at": 1764406045.506915
+    },
+    {
+      "type": "cli_chat",
+      "user_id": "cli-user",
+      "prompt": "no do you remeber the time",
+      "response": "I found these saved notes related to your question:\n\n",
+      "ts": 1764406063.3811076,
+      "recorded_at": 1764406063.3811076
+    },
+    {
+      "type": "adherence_event",
+      "user_id": "cli-user",
+      "med": "Metformin 100mg",
+      "dose": "",
+      "timestamp": 1764406123.239506,
+      "user_reply": "Yes, I took it.",
+      "recorded_at": 1764406123.239506
+    },
+    {
+      "type": "uploaded_doc_summary",
+      "user_id": "cli-user",
+      "keywords": [
+        "daily atorvastatin 10mg",
+        "atorvastatin",
+        "metformin 500mg",
+        "daily atorvastatin",
+        "atorvastatin 10mg once",
+        "prescription metformin",
+        "prescription metformin 500mg",
+        "metformin",
+        "simulated prescription metformin",
+        "atorvastatin 10mg",
+        "metformin 500mg twice",
+        "twice daily atorvastatin"
+      ],
+      "suggested_specialties": [
+        "MODEL_TRUNCATED: Increase max_output_tokens. Partial candidate logged."
+      ],
+      "raw_excerpt": "Simulated prescription: Metformin 500mg twice daily, Atorvastatin 10mg once nightly.",
+      "recorded_at": 1764406575.2317467
+    },
+    {
+      "type": "uploaded_doc_summary",
+      "user_id": "cli-user",
+      "keywords": [
+        "daily atorvastatin 10mg",
+        "atorvastatin",
+        "metformin 500mg",
+        "daily atorvastatin",
+        "atorvastatin 10mg once",
+        "prescription metformin",
+        "prescription metformin 500mg",
+        "metformin",
+        "simulated prescription metformin",
+        "atorvastatin 10mg",
+        "metformin 500mg twice",
+        "twice daily atorvastatin"
+      ],
+      "suggested_specialties": [
+        "MODEL_TRUNCATED: Increase max_output_tokens. Partial candidate logged."
+      ],
+      "raw_excerpt": "Simulated prescription: Metformin 500mg twice daily, Atorvastatin 10mg once nightly.",
+      "recorded_at": 1764406585.436582
+    },
+    {
+      "type": "uploaded_doc_summary",
+      "user_id": "cli-user",
+      "keywords": [
+        "prescription metformin 500mg",
+        "atorvastatin 10mg once",
+        "daily atorvastatin",
+        "prescription metformin",
+        "metformin 500mg",
+        "atorvastatin",
+        "daily atorvastatin 10mg",
+        "metformin",
+        "twice daily atorvastatin",
+        "metformin 500mg twice",
+        "simulated prescription metformin",
+        "atorvastatin 10mg"
+      ],
+      "suggested_specialties": [
+        "Internal Medicine",
+        "Primary Care"
+      ],
+      "raw_excerpt": "Simulated prescription: Metformin 500mg twice daily, Atorvastatin 10mg once nightly.",
+      "recorded_at": 1764407967.1146212
+    },
+    {
+      "type": "uploaded_doc_summary",
+      "user_id": "cli-user",
+      "keywords": [
+        "metformin 500mg",
+        "daily atorvastatin",
+        "atorvastatin 10mg",
+        "atorvastatin 10mg once",
+        "prescription metformin 500mg",
+        "atorvastatin",
+        "twice daily atorvastatin",
+        "prescription metformin",
+        "metformin",
+        "simulated prescription metformin",
+        "daily atorvastatin 10mg",
+        "metformin 500mg twice"
+      ],
+      "suggested_specialties": [
+        "Internal Medicine",
+        "Primary Care"
+      ],
+      "raw_excerpt": "Simulated prescription: Metformin 500mg twice daily, Atorvastatin 10mg once nightly.",
+      "recorded_at": 1764409182.5190623
+    }
+  ]
+}
