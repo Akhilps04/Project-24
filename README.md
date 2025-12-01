@@ -112,6 +112,9 @@ flowchart LR
   Memory --> Files
   Gemini -->|responses| Agent
 ```
+<img width="1944" height="2027" alt="_- visual selection (2)" src="https://github.com/user-attachments/assets/2bcf2dbb-b845-4415-84d6-f2744cee0ce8" />
+<img width="1729" height="1706" alt="_- visual selection (1)" src="https://github.com/user-attachments/assets/fa05913e-3b48-497e-9b52-5ff43c0d38ad" />
+<img width="1902" height="1719" alt="_- visual selection" src="https://github.com/user-attachments/assets/cc9c8950-27a6-4abf-ba5f-8e605803cb47" />
 
 ---
 
